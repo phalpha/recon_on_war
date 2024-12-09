@@ -31,91 +31,355 @@
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div>
+      <img src="./images/stanfordbanner.png"  width="100%" alt="Stanford">
+  </div>
+
+
   <div class="container">
     <div class="row">
-      <div class="one-half column" style="margin-top: 25%">
-     <h1 align="center">  Does Stanford Stand For War?
+      <div class="column" style="margin-top: 10%">
+     <h1 align="center">  Does Stanford <i><b>Stand For </b></i>War?
      </h1>
-        <h1 align="center"> <i>A Visual Reconnaissance of the Military Industrial Complex and its Relationship to Stanford University, 2002-2023 </i>  </h1>
-        
-        <h3> 
-This project is an investigation, or a visual reconnaissance, into some key elements of the global war economy since 9/11 (between 2002 and 2023). 
-          The story that this article tells connects global war, the United States, and Stanford.
-  
-          This article has three main parts. 
-          The first section of the article aims to illustrate the scale of the US military and offers a glimpse into the US's participation in arms exportation across the world.
-          The second section shifts the focus to the companies which act as weapons and defense contractors, profiting from war.
-          The final section focuses on Stanford’s relationship to these companies and the broader US military industrial complex.</h3>
+        <h2 align="center"> <i>A Visual Reconnaissance of the Military Industrial Complex <br> and its Relationship to Stanford University, 2002-2023 </i>  </h2>
       </div>
     </div>
   </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="nine columns" style="margin-top: 10%">
+  <h4>
+We live in an epoch of world-history etched with stories of militarism, marked by campaigns of destruction, soaked with the bloodstains of war.
+<br>
+<br>
+In this article, we trace the financial infrastructure of war, from an examination of US military expenditure and arms transfers on the global scale, down to a more granular look at Stanford's financial relationship to this all.
+This project is a brief investigation, or a visual reconnaissance, into some key elements of the global war economy since 9/11 (between 2002 and 2023).
+<br>
+<br>
+This story is told in three parts:  The first section of the article aims to illustrate the scale of the US military in the 21st century.
+    The second section shifts the focus to visualizing the scale and development of weapons companies since 2002.
+    The final section zooms into Stanford’s relationship to the US military industrial complex, from its ties with the defense department to its relations with companies profiting from war.
+</h4>
+  </div>
+  <div class="three columns" style="margin-top: 10%">
+    <img src="./images/stanfordicon.png"  width="400" height = "600" alt="Stanford">
+</div>
+
+</div>
+</div>
+
+
+<div class="container" >
+  <div class = "row">
+    <div class = "column" style="margin-top: 10%">
+
+  <h5> </h5>
+   <h2> <strong> A New Century, More Money Into US-Led War</strong> </h2>
+
+   <h5> The United States has had an explosive entanglement with war for much of its existence, much to the detriment of the land and the people.
+     As the late Reverend Martin Luther King Jr. once lamented, "A nation that continues year after year to spend more money on military defense than on programs of social uplift is approaching spiritual death".
+     The frenzy of war has only further enthralled the ruling circles of the United States since 9/11, with the United States entering a new stage of perpetual war.
+
+     In this section, we begin to decipher the infrastructure of military, defense, and war on a global scale since 9/11, with a focus on how the United States stacks up against the rest of the world.
+     It is important to note that this is just a glimpse - and an incomplete glimpse at that. It is likely that the US's military resources and relationship to other militaries is vastly greater than that which is publicly reported.
+     The same may be true for other countries. A more thorough investigation of the relationships between various states and war projects may be required to elucidate elements of military spending which are not reported here.
+</div>
+</div>
+ </div>
+
+
+ <div class="container">
+  <div class="row">
+    <div class="column" style="margin-top: 5%">
+      <h5> First, let us visualize which countries spend the most on their military. </h5>
+      <h4>Figure 1: Countries with Highest Military Expenditure, 2023</h4>
+       <h5>Use the following sliders to highlight countries that fit the following conditions: </h5>
+
+       <div id="observablehq-viewof-arbitrary_threshold-0eeb1cc4"></div>
+<div id="observablehq-viewof-arbitrary_threshold_2-0eeb1cc4"></div>
+<div id="observablehq-chart-0eeb1cc4"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/@ph1729/project_figure1@92.js?v=4";
+new Runtime().module(define, name => {
+  if (name === "viewof arbitrary_threshold") return new Inspector(document.querySelector("#observablehq-viewof-arbitrary_threshold-0eeb1cc4"));
+  if (name === "viewof arbitrary_threshold_2") return new Inspector(document.querySelector("#observablehq-viewof-arbitrary_threshold_2-0eeb1cc4"));
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-0eeb1cc4"));
+});
+</script>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+ <div class="row">
+   <div class="column" style="margin-top: 5%">
+     <h5> Figure 1 depicts the 10 countries with the highest military expenditures, in millions based on USD in 2023. Notice that the United States far exceeds the spending of all other countries, with over 900 billion USD. After the United States is China and Russia, which together still consist of less than half of US spending.
+        <br> <br>
+        The sliders can be used to highlight the countries which have a military spending based on certain constraints. The first slider highlights countries where the percentage share of GDP that goes towards military spending is greater than a certain value, and the second slider highlights countries where the per capita military spending is greater than a certain dollar amount.
+        Try playing around with the sliders, first resetting them to "0" each, and then playing with one at a time and then both at once.
+
+        <br>
+
+        Here are some initial observations using the sliders. First, moving the first slider to "3" while keeping the second slider at "0" shows that only four countries have military spending which exceeds 3 percent of their GDP: Ukraine, Saudi Arabia, Russia, and the United States. Further moving the slider to "8" shows that only Ukraine has a percent share of GDP going to military spending above 8 percent. In fact, Ukraine's military spending is over 36% of its GDP, reflecting the conditions of its current war against Russian aggression. Now, try returning the first slider to "0", and move the second slider to "1500". Here, the figure depicts that Ukraine, Saudi Arabia, and the United States spend over $1500 per capita on their military. Further moving the slider up to "2500", the figure reveals that only the United States spends over $2500 per capita, making it not just the country with the highest military expenditure, but among countries with the highest military expenditure, it is also the country with the highest military expenditure per capita.
+
+        <br> <br> <br>
+
+        It is clear that a whole lot of money goes into making the US military do what it does. Within the US state infrastructure, this funding comes predominantly from the Department of Defense. How about the actual supply and transfer of weapons?
+         </h5>
+   </div>
+ </div>
+</div>
+
+
+  <div class="container">
+  <div class="row">
+    <div class="column" style="margin-top: 5%">
+
+     <h4>Figure 2: Arms Exported by Country between 2002 and 2013, by TIV Value (Millions) </h4>
+
+     <div id="observablehq-key-ce901ce6"></div>
+<div id="observablehq-chart-ce901ce6"></div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/867a5016a7813720@16.js?v=4";
+new Runtime().module(define, name => {
+  if (name === "key") return new Inspector(document.querySelector("#observablehq-key-ce901ce6"));
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-ce901ce6"));
+});
+</script>
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+<div class="row">
+  <div class="column" style="margin-top: 5%">
+
+    <h5> Figure 2 is a stacked area chart depicting the volume of all arms exported across the world, by country. TIV stands for <a href="https://www.sipri.org/databases/armstransfers/sources-and-methods#TIV-tables">Trend Indicator Value</a>, which is "based on the known unit production costs of a core set of weapons and is intended to represent the transfer of military resources rather than the financial value of the transfer”. Notably, this is not the same as sales prices for arms transfers, but it is a metric that is useful for discerning trends in arms transfers over time. As an additional note, the countries within the European Union are grouped together for sake of convenient viewing - the countries within the EU with the most arms exports are France, Germany, the United Kingdom, and Italy, which together comprise the majority of arms transfers out of the EU.
+
+    <br> <br>
+
+  As evident from the figure, the United States has contributed a sizeable portion of the weapons exported across the world in each year. In 2002, the United States exported 4,882,000,000 TIV units worth of arms, which comprised over 27% of total exports of arms across the world. In 2023, exported  11,287,000 TIV units worth of arms, which comprises over 39% of all arms exports. The United States far exceeds any other country in exports, exceeding even all of the 27 EU countries combined in each year since 2002. Thus, not only has the United States been the dominant leader in arms exports, their share of arms exports globally has also been rising. The Pentagon runs this country as a war economy indeed! </h5>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+ <div class="container" >
+   <div class = "row">
+     <div class = "column" style="margin-top: 20%">
+    <h2> <strong> The Not-So-Good Ol' Military Industrial Complex </strong> </h2>
+    <h5> When it comes to war, the US Department of Defense does not act alone. Indeed, there is a broader defense industry which manufactures the very weapons which are used by the US government to export destruction and wage war. The pernicious links between defense industry and the government have even been criticized by those intimately involved with both: former President Dwight Eisenhower's words in his farewell address serve as a prescient warning: "In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex." In this section, we further explore the military industrial complex by visualizing the development of weapons companies since 2002.</h5>
+ </div>
+ </div>
+  </div>
+
+
+  <div class="container">
+  <div class="row">
+    <div class="column" style="margin-top: 5%">
+
+      <h4>Figure 3: Top 10 arms-producing and military services companies in the world, 2002 to 2023 </h4>
+
+      <div id="observablehq-viewof-keyframe-7ec55e5b"></div>
+<div id="observablehq-chart-7ec55e5b"></div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/a5809b17b57af8f7@3106.js?v=4";
+new Runtime().module(define, name => {
+  if (name === "viewof keyframe") return new Inspector(document.querySelector("#observablehq-viewof-keyframe-7ec55e5b"));
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-7ec55e5b"));
+  return ["update"].includes(name);
+});
+</script>
+    </div>
+  </div>
+</div>
+
+<div class="container" >
+  <div class = "row">
+    <div class = "column" style="margin-top: 5%">
+      <h5> Here, arms revenues are listed in millions for the top 10 companies by year, adjusted for inflation to 2023 dollars. Feel free to play and pause and visualize the changes over year.
+        Note that Raytheon changed its name to RTX in 2023. For all years from 2002 to 2023, US-based companies were at least 4 of the 5 largest weapons companies. The five companies that have almost consistently been the largest are Lockheed Martin, Northrop Grumman, Raytheon, Boeing, and BAE Systems. Out of these, the first four are US-based companies, and BAE Systems is UK-based. A few Chinese companies are also featured here in yellow. </h5>
+</div>
+</div>
+ </div>
+
+
+ <div class="container">
+ <div class="row">
+   <div class="column" style="margin-top: 5%">
+    <h5> The following chart depicts more information about the companies producing weapons and military technologies. </h5>
+
+       <h4>Figure 4: Top 100 Arms-producing and military services companies in the world by Arms Revenue, 2023 </h4>
+     <div id="observablehq-viewof-tile-462433fe"></div>
+    <div id="observablehq-key-462433fe"></div>
+    <div id="observablehq-chart-462433fe"></div>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+    <script type="module">
+    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+    import define from "https://api.observablehq.com/d/cd22403b2a7625e8@236.js?v=4";
+    new Runtime().module(define, name => {
+      if (name === "viewof tile") return new Inspector(document.querySelector("#observablehq-viewof-tile-462433fe"));
+      if (name === "key") return new Inspector(document.querySelector("#observablehq-key-462433fe"));
+      if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-462433fe"));
+    });
+    </script>
+
+    <h5> As this figure shows in even more detail, US companies dominate the global defense industry, outcounting all of the other companies in the Top 100 combined in terms of Arms Revenues. The deep penetration of the defense and military industry with the US government's defense department is not a far-fetched claim to make based on these observations. In the next section, we will consider how Stanford itself may relate to this military industrial complex.</h5>
+   </div>
+ </div>
+</div>
+
+
+
+
+
+  <div class="container" >
+    <div class = "row">
+      <div class = "column" style="margin-top: 20%">
+     <h2> <strong> What about Stanford? </strong></h2>
+     <h5> So far, we have illustrated the extent of the US military industrial complex, from exorbitant defense spending to massive weapons contractors profiting from it all.
+
+       Now it is time to dive deeper and see where Stanford sits in this all. First, we look at Stanford's financial ties to the Department of Defense (DoD), and then we look at Stanford's ties to weapons manufacturing companies.
+       The following figure is sourced from DoD grants awarded to Stanford University between the years 2002 and 2023.
+     </h5>
+  </div>
+  </div>
+   </div>
 
    <div class="container">
     <div class="row">
-      <div class="one-half column" style="margin-top: 25%">
-      
-        <h2>Figure 1: Countries with Highest Military Expenditure, 2023</h2>
-         <h3>Use the following sliders to highlight countries that fit the following conditions: </h3>
+      <div class="column" style="margin-top: 5%">
+        <h4>Figure 5: DOD Military Departments Funding Awarded to Stanford between 2002 and 2023, in Millions USD </h4>
+
+        <div id="observablehq-chart-3a4c51d8"></div>
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+        <script type="module">
+        import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+        import define from "https://api.observablehq.com/d/eb65de2944236075@394.js?v=4";
+        new Runtime().module(define, name => {
+          if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-3a4c51d8"));
+        });
+        </script>
       </div>
     </div>
-  </div>
-  
-<p align="center"> <iframe width="80%" height="694.40625" frameborder="0"
-  src="https://observablehq.com/embed/f35579d4c522fc6a@71?cells=viewof+arbitrary_threshold%2Cviewof+arbitrary_threshold_2%2Cchart"></iframe></p>
+   </div>
 
 
-  
-    <div class="container">
-    <div class="row">
-      <div class="one-half column" style="margin-top: 25%">
-       
-       <h2>Figure 2: Arms Exported by Country between 2002 and 2013, by TIV Value (Millions) </h2>
-         <h3>  TIV stands for Trend-Indicator Value, which is "based on the known unit production costs of a core set of weapons and is intended to represent the transfer of military resources rather than the financial value of the transfer”. </h3>
-      </div>
+   <div class="container" >
+     <div class = "row">
+       <div class = "column" style="margin-top: 5%">
+
+      <h5> This heirarchical bar chart shows the aggregate amount of funding in millions of USD received by Stanford researchers from various groups within the Department of Defense, including: United States Department of the Air Force (DAF), United States Department of the Navy (DON), Congressionally Directed Medical Research Programs (CDMRP), United States Department of the Army (DA), Defense Advanced Research Projects Agency (DARPA). The chart shows those departments, and groups the other ones within the DoD into the "Other". As the chart depicts, Stanford researchers were awarded nearly 300 million dollars in funding from the Air Force between 2002 and 2023. Congressionally Directed Medical Research Programs (CDMRP) were also a major source of DoD-related funding, tallying over 160 million dollars. The Navy, Army, and DARPA also featured prominently as funding sources. Altogether, the DoD has poured about 600 million dollars of funding directly to projects at Stanford University since 2002. Clicking on each bar reveals another bar chart with a breakdown by years. From this, we can notice that for CDMRP, the Navy, the Army, and DARPA, recent years have had higher amounts of funding awarded. There are exceptions, such as for the Air Force, where there was a peak in 2011 and 2012.
+
+ <br> <br>
+ Notably, many of the projects which receive funding are not overtly related to the weapons-side of defense, but are related to various other types of research. Some of the grants are designated as belonging to critical technology areas for the defense department, including advanced computing and software, hypersonics, and quantum sciences.
+     </h5>
+   </div>
+   </div>
     </div>
-  </div>
-
-  
-<p align="center"><iframe width="80%" height="646.453125" frameborder="0"
-  src="https://observablehq.com/embed/5bb57dbf5425c3b3@15?cells=key%2Cchart&api_key=79911e83d654d355ecb36e104a142fa08583a703"></iframe></p>
 
 
-  
-    <div class="container">
-    <div class="row">
-      <div class="one-half column" style="margin-top: 25%">
-       
-        <h2>Figure 3: Top 10arms-producing and military services companies in the world, 2002 to 2023 </h2>
-        <h3> Here, arms revenues are listed in millions for the top 10 companies by year. Feel free to play and pause and visualize the changes over year. 
-          Note that Raytheon changed its name to RTX in 2023. </h3>
-      </div>
+    <div class="container" >
+      <div class = "row">
+        <div class = "column" style="margin-top: 5%">
+
+       <h5> How about direct contracts from weapons companies? As US companies continue to boast record revenues from war, Stanford professors continue to seek funding from them.   </h5>
     </div>
-  </div>
-<p align="center"> <iframe width="80%" height="732.15625" frameborder="0"
-  src="https://observablehq.com/embed/a5809b17b57af8f7@3092?cells=viewof+keyframe%2Cchart"></iframe></p>
+    </div>
+     </div>
+
+
 
    <div class="container">
     <div class="row">
-      <div class="one-half column" style="margin-top: 25%">
-        <h2>Figure 4: DOD Military Departments Funding Awarded to Stanford between 2002 and 2023, in Millions </h2>
-        <h3> This is arranged by department. Click each bar to see another bar chart with breakdown by year. </h3>
-      </div>
-    </div>
-  </div>
-<p align="center">   <iframe width="80%" height="664.171875" frameborder="0"
-  src="https://observablehq.com/embed/eb65de2944236075?cells=chart"></iframe></p>
- 
+      <div class="column" style="margin-top: 5%">
+        <h4>Figure 6: Funding Awarded to Stanford research projects from Top 6 Weapons Companies between 2002 and 2023, in Millions USD </h4>
+        <div id="observablehq-chart2-0a34c5e4"></div>
 
-   <div class="container">
-    <div class="row">
-      <div class="one-half column" style="margin-top: 25%">
-        <h2>Figure 5: Funding Awarded to Stanford professors for Top 6 Weapons Companies between 2002 and 2003, in Millions </h2>
-        <h3> Hover over the bars to see more information about the number of projects proposed and number of projects sponsored.</h3>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+        <script type="module">
+        import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+        import define from "https://api.observablehq.com/@ph1729/project_figure1@95.js?v=4";
+        new Runtime().module(define, name => {
+          if (name === "chart2") return new Inspector(document.querySelector("#observablehq-chart2-0a34c5e4"));
+        });
+        </script>
       </div>
     </div>
   </div>
- <p align="center">  <iframe width="80%" height="564.53125" frameborder="0"
-  src="https://observablehq.com/embed/f35579d4c522fc6a@80?cells=chart2"></iframe></p>
+
+
+  <div class="container" >
+    <div class = "row">
+      <div class = "column" style="margin-top: 5%">
+
+
+    <h5>  Figure 6 shows the amount of funding awarded to various Stanford reseachers since 2002, in millions. Hover over the bars to see more interactive information about the number of projects proposed and number of projects sponsored.
+      <br>
+      As the chart depicts, Boeing has funded the most projects (52) and also awarded the most money (over 40 million dollars). Lockheed Martin also funded a sizeable number of projects (31), with over 10 million dollars of funding awarded. Notably, there have not been any projects funded by General Dynamics since 2002, although there were some before that period. Altogether, these top 6 weapons companies have awarded Stanford researchers about 60 million dollars worth of funding. As hovering over the bars shows, the vast majority of proposed projects end up being sponsored, revelaing the consistency of funding between these entities. In this way, Stanford's financial links to war appear not just in its endowment, but also through active research ties to companies profiting from war. Like the case in the grants awarded by the DoD, many of the projects funded here do not have extremely direct links to weaponry or war, but the financial ties with the weapons companies themselves reveal that these companies find Stanford research important for their success.
+<br> <br> <br><br>
+
+      Note that this section is just the tip of the iceberg - Stanford's relationship to the military industrial complex far eclipses anything this introductory analysis can offer.
+Stanford has long been an intellectual citadel for mouthpieces of empire, headquarted at Hoover Institution, who seek to establish US might not just through hard military power, but through soft cultural power. These conservative, pro-US military intellectuals have long used Stanford University as a base for providing the ideological justifications for war.
+      In the aftermath of World War 2, Stanford's relationship to empire-building transcending the realm of ideology, with DoD funding skyrocketing as Stanford became a bastion for Cold War-era research. The Stanford Research Institute was built, hosting a wide array of classified research projects related to war efforts in Vietnam and Southeast Asia. Stanford, a bastion for elite education, became a hub for not just justifying empire, but implementing war to preserve the empire.
+<br> <br>
+      In the late 1960s and early 1970s, the student movement against the Vietnam War successfully fought to end classified war research on campus. A major part of this movement was the protracted effort to research the infrastructure of Stanford's relationship war, and to disemminate it as broadly as possible. This social investigational and educational effort to understand the context and propagate it to the community proved to be instrumental in waging a successful campaign against Stanford's research involvement in the war, striking a small but important blow against the US imperialism right here at Stanford campus.
+
+      <br> <br> Today, while the Vietnam War is over, Stanford's ties to the war economy have only grown. Some of these links have been illustrated in this article, but much of this infrastructure remains to be understood.
+Altogether, this visual reconnaissance reveals just a small slice of the extent of the US military industrial complex as well as Stanford's relationship to this behemoth.
+
+<br> <br> May we or our descendants live to see a planet free from the scourge of militarism and imperialism, as we continue the struggle towards liberation for all people and land.
+     </h5>
+  </div>
+  </div>
+   </div>
+
+
+    <div class="container" >
+      <div class = "row">
+        <div class = "column" style="margin-top: 20%">
+       <h2>  Data Sources </h2>
+       <h5>
+         The following datasets are used in this project: <br>
+         <ul>
+            <li> <a href="https://www.sipri.org/databases/armstransfers"> SIPRI Arms Transfer Database</a>:  contains information on all transfers of major conventional arms from 1950 to the most recent full calendar year</li>
+            <li> <a href="https://www.sipri.org/databases/armsindustry"> SIPRI Arms Industry Database </a>:  contains information on arms-producing and military services companies </li>
+            <li> <a href="https://sera.stanford.edu/apex/f?p=200:91:15655527959837"> Stanford Electronic Research Administration (SeRA) Projects and Agreements Database</a>:  contains information about projects and agreements between various corporations and institutions and Stanford faculty</li>
+            <li> <a href="https://dtic.dimensions.ai/discover/grant"> Defense Technical Information Center Database</a>:  Contains information of grants awarded to Stanford from the DoD and military
+</li>
+
+          </ul>
+
+
+
+         <br> <br> <br>
+         For more information about this project, please contact the author of this webpage (Poojit H.) at phegde8@stanford.edu.
+         <br> <br>
+         Thank you for reading! Long Live International Solidarity!
+       </h5>
+    </div>
+    </div>
+     </div>
+
+
+
+
+
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
