@@ -1,0 +1,2201 @@
+date,name,category,value
+2002-01-01,Boeing,United States,39900
+2002-01-01,Northrop Grumman Corp.,United States,35560
+2002-01-01,Lockheed Martin Corp.,United States,31960
+2002-01-01,BAE Systems,United Kingdom,19960
+2002-01-01,Raytheon,United States,20360
+2002-01-01,General Dynamics Corp.,United States,16630
+2002-01-01,Thales,France,11100
+2002-01-01,United Technologies Corp.,United States,9550
+2002-01-01,EADS,Trans-European,9390
+2002-01-01,Honeywell International,United States,6300
+2002-01-01,Finmeccanica,Italy,6480
+2002-01-01,L-3 Communications,United States,5110
+2002-01-01,Science Applications International Corp.,United States,5080
+2002-01-01,Rolls-Royce,United Kingdom,4040
+2002-01-01,Mitsubishi Heavy Industries,Japan,2370
+2002-01-01,General Electric,United States,3730
+2002-01-01,Computer Sciences Corp.,United States,3350
+2002-01-01,GKN,United Kingdom,2550
+2002-01-01,United Defense Industries,United States,2930
+2002-01-01,MBDA,Trans-European,2750
+2002-01-01,Rheinmetall,Germany,2710
+2002-01-01,ITT Industries,United States,2560
+2002-01-01,Textron,United States,2350
+2002-01-01,Direction des Constructions Navales,France,2220
+2002-01-01,DynCorp,United States,2300
+2002-01-01,Saab,Sweden,1750
+2002-01-01,Israel Aircraft Industries,Israel,2230
+2002-01-01,Alliant Techsystems,United States,2120
+2002-01-01,URS Corp.,United States,2030
+2002-01-01,SNECMA Groupe,France,1880
+2002-01-01,Indian Ordnance Factories,India,2510
+2002-01-01,Dassault Aviation Group,France,1850
+2002-01-01,Rockwell Collins,United States,1900
+2002-01-01,CEA,France,1780
+2002-01-01,Smiths Group,United Kingdom,1560
+2002-01-01,Goodrich Corp.,United States,1730
+2002-01-01,Harris Corp.,United States,1630
+2002-01-01,KnAAPO,Russia,1950
+2002-01-01,ThyssenKrupp,Germany,1650
+2002-01-01,DaimlerChrysler,Germany,1610
+2002-01-01,Halliburton,United States,1570
+2002-01-01,QinetiQ,United Kingdom,1320
+2002-01-01,General Motors Company,United States,1520
+2002-01-01,Kawasaki Heavy Industries,Japan,870
+2002-01-01,Elbit Systems,Israel,1520
+2002-01-01,ST Engineering,Singapore,1690
+2002-01-01,Booz Allen Hamilton,United States,1350
+2002-01-01,Mitsubishi Electric Corp.,Japan,770
+2002-01-01,GIAT Industries,France,1180
+2002-01-01,Titan Corp.,United States,1240
+2002-01-01,Rafael,Israel,1270
+2002-01-01,FIAT,Italy,1250
+2002-01-01,CACI International,United States,1150
+2002-01-01,VT Group,United Kingdom,940
+2002-01-01,Anteon International Corp,United States,1080
+2002-01-01,Ishikawajima-Harima Heavy Industries,Japan,630
+2002-01-01,SAGEM Groupe,France,1010
+2002-01-01,DRS Technologies,United States,1030
+2002-01-01,Korea Aerospace Industries,South Korea,960
+2002-01-01,Oshkosh Truck Corp.,United States,1020
+2002-01-01,Krauss-Maffei Wegmann,Germany,980
+2002-01-01,Electronic Data Systems,United States,970
+2002-01-01,Bechtel Corp.,United States,930
+2002-01-01,Cobham,United Kingdom,770
+2002-01-01,Serco Group,United Kingdom,770
+2002-01-01,Hindustan Aeronautics,India,1110
+2002-01-01,Diehl,Germany,870
+2002-01-01,Veridian Corp.,United States,850
+2002-01-01,Irkut,Russia,1000
+2002-01-01,Aerokosmicheskoe Oborudovanie,Russia,980
+2002-01-01,RUAG,Switzerland,910
+2002-01-01,Fincantieri,Italy,800
+2002-01-01,The Aerospace Corp.,United States,760
+2002-01-01,Stewart & Stevenson,United States,760
+2002-01-01,Jacobs Engineering Group,United States,760
+2002-01-01,Mitre Corp.,United States,750
+2002-01-01,Babcock International Group,United Kingdom,620
+2002-01-01,ManTech International Corp.,United States,730
+2002-01-01,Samsung Techwin,South Korea,660
+2002-01-01,Bharat Electronics,India,890
+2002-01-01,Precision Castparts Corp.,United States,690
+2002-01-01,NEC Corp.,Japan,400
+2002-01-01,CAE,Canada,710
+2002-01-01,Izar,Spain,710
+2002-01-01,Engineered Support Systems,United States,640
+2002-01-01,Raytheon Aerospace Company,United States,630
+2002-01-01,ARINC,United States,630
+2002-01-01,Toshiba Corp.,Japan,360
+2002-01-01,Areva,France,580
+2002-01-01,Indra,Spain,650
+2002-01-01,Silicon Graphics,United States,610
+2002-01-01,Israel Military Industries,Israel,620
+2002-01-01,Elisra,Israel,620
+2002-01-01,Alvis,United Kingdom,480
+2002-01-01,Kongsberg Gruppen,Norway,410
+2002-01-01,ADI,Australia,710
+2002-01-01,UMPO,Russia,650
+2002-01-01,Denel,South Africa,510
+2002-01-01,Ultra Electronics Group,United Kingdom,450
+2002-01-01,Cubic Corp.,United States,520
+2003-01-01,Boeing,United States,42840
+2003-01-01,Lockheed Martin Corp.,United States,41250
+2003-01-01,Northrop Grumman Corp.,United States,33630
+2003-01-01,BAE Systems,United Kingdom,20250
+2003-01-01,Raytheon,United States,21760
+2003-01-01,General Dynamics Corp.,United States,21690
+2003-01-01,Thales,France,11060
+2003-01-01,EADS,Trans-European,10970
+2003-01-01,United Technologies Corp.,United States,10280
+2003-01-01,Finmeccanica,Italy,7500
+2003-01-01,L-3 Communications,United States,7420
+2003-01-01,Honeywell International,United States,6570
+2003-01-01,Computer Sciences Corp.,United States,6260
+2003-01-01,Science Applications International Corp.,United States,6130
+2003-01-01,Rolls-Royce,United Kingdom,3880
+2003-01-01,Halliburton,United States,4980
+2003-01-01,MBDA,Trans-European,3630
+2003-01-01,Mitsubishi Heavy Industries,Japan,2380
+2003-01-01,General Electric,United States,3970
+2003-01-01,DCN,France,2850
+2003-01-01,United Defense Industries,United States,3390
+2003-01-01,GKN,United Kingdom,2600
+2003-01-01,Dassault Aviation Group,France,2400
+2003-01-01,Rheinmetall,Germany,2560
+2003-01-01,ITT Industries,United States,2960
+2003-01-01,Saab,Sweden,1850
+2003-01-01,SNECMA Groupe,France,2210
+2003-01-01,CEA,France,2040
+2003-01-01,Alliant Techsystems,United States,2420
+2003-01-01,Sukhoi,Russia,2510
+2003-01-01,Textron,United States,2320
+2003-01-01,Goodrich Corp.,United States,2190
+2003-01-01,Indian Ordnance Factories,India,2620
+2003-01-01,Israel Aircraft Industries,Israel,2210
+2003-01-01,Rockwell Collins,United States,2100
+2003-01-01,Kawasaki Heavy Industries,Japan,1100
+2003-01-01,Harris Corp.,United States,1940
+2003-01-01,QinetiQ,United Kingdom,1430
+2003-01-01,ThyssenKrupp,Germany,1570
+2003-01-01,Smiths Group,United Kingdom,1410
+2003-01-01,Titan Corp.,United States,1670
+2003-01-01,URS Corp.,United States,1640
+2003-01-01,Almaz-Antey,Russia,1680
+2003-01-01,CACI International,United States,1570
+2003-01-01,DRS Technologies,United States,1560
+2003-01-01,Booz Allen Hamilton,United States,1560
+2003-01-01,DaimlerChrysler,Germany,1320
+2003-01-01,Anteon International Corp,United States,1520
+2003-01-01,Elbit Systems,Israel,1520
+2003-01-01,ST Engineering,Singapore,1750
+2003-01-01,VT Group,United Kingdom,1080
+2003-01-01,SAGEM Groupe,France,1100
+2003-01-01,Izar,Spain,1220
+2003-01-01,GIAT Industries,France,1090
+2003-01-01,Rafael,Israel,1330
+2003-01-01,Mitsubishi Electric Corp.,Japan,700
+2003-01-01,Bechtel Corp.,United States,1240
+2003-01-01,Krauss-Maffei Wegmann,Germany,1000
+2003-01-01,Electronic Data Systems,United States,1140
+2003-01-01,Cobham,United Kingdom,870
+2003-01-01,Serco Group,United Kingdom,850
+2003-01-01,Oshkosh Truck Corp.,United States,1090
+2003-01-01,Hindustan Aeronautics,India,1300
+2003-01-01,ManTech International Corp.,United States,1060
+2003-01-01,Diehl,Germany,890
+2003-01-01,Ishikawajima-Harima Heavy Industries,Japan,570
+2003-01-01,RUAG,Switzerland,1030
+2003-01-01,Jacobs Engineering Group,United States,1010
+2003-01-01,Alvis,United Kingdom,730
+2003-01-01,Fincantieri,Italy,810
+2003-01-01,Avio,Italy,790
+2003-01-01,Engineered Support Systems,United States,890
+2003-01-01,Korea Aerospace Industries,South Korea,780
+2003-01-01,Babcock International Group,United Kingdom,670
+2003-01-01,Indra,Spain,750
+2003-01-01,The Aerospace Corp.,United States,840
+2003-01-01,Aerokosmicheskoe Oborudovanie,Russia,860
+2003-01-01,Irkut,Russia,840
+2003-01-01,AM General,United States,790
+2003-01-01,NEC Corp.,Japan,430
+2003-01-01,Israel Military Industries,Israel,780
+2003-01-01,Bharat Electronics,India,920
+2003-01-01,Mitre Corp.,United States,760
+2003-01-01,Samsung Techwin,South Korea,670
+2003-01-01,CAE,Canada,710
+2003-01-01,Denel,South Africa,490
+2003-01-01,Stewart & Stevenson,United States,750
+2003-01-01,Chugach Alaska Corporation,United States,730
+2003-01-01,Precision Castparts Corp.,United States,710
+2003-01-01,Kongsberg Gruppen,Norway,460
+2003-01-01,ADI,Australia,730
+2003-01-01,EDO,United States,680
+2003-01-01,Ericsson,Sweden,430
+2003-01-01,UMPO,Russia,680
+2003-01-01,Toshiba Corp.,Japan,350
+2003-01-01,Tenix,Australia,650
+2003-01-01,Ultra Electronics Group,United Kingdom,480
+2003-01-01,Cubic Corp.,United States,610
+2003-01-01,Moog,United States,600
+2003-01-01,Curtiss-Wright Corp.,United States,580
+2004-01-01,Boeing,United States,46740
+2004-01-01,Lockheed Martin Corp.,United States,42170
+2004-01-01,Northrop Grumman Corp.,United States,35740
+2004-01-01,BAE Systems,United Kingdom,18880
+2004-01-01,General Dynamics Corp.,United States,24430
+2004-01-01,Raytheon,United States,24140
+2004-01-01,EADS,Trans-European,11570
+2004-01-01,Thales,France,10550
+2004-01-01,Finmeccanica,Italy,10020
+2004-01-01,United Technologies Corp.,United States,10870
+2004-01-01,Halliburton,United States,10600
+2004-01-01,L-3 Communications,United States,9100
+2004-01-01,Science Applications International Corp.,United States,7530
+2004-01-01,Computer Sciences Corp.,United States,6980
+2004-01-01,Honeywell International,United States,6760
+2004-01-01,MBDA,Trans-European,4630
+2004-01-01,Rolls-Royce,United Kingdom,3740
+2004-01-01,DCN,France,3820
+2004-01-01,General Electric,United States,4840
+2004-01-01,Mitsubishi Heavy Industries,Japan,2360
+2004-01-01,ITT Industries,United States,3890
+2004-01-01,GKN,United Kingdom,2710
+2004-01-01,United Defense Industries,United States,3690
+2004-01-01,Snecma Groupe,France,2300
+2004-01-01,Saab,Sweden,1900
+2004-01-01,Alliant Techsystems,United States,2810
+2004-01-01,CEA,France,2030
+2004-01-01,Rheinmetall,Germany,2180
+2004-01-01,Dassault Aviation Group,France,1970
+2004-01-01,Harris Corp.,United States,2500
+2004-01-01,Rockwell Collins,United States,2480
+2004-01-01,Sukhoi,Russia,2180
+2004-01-01,Goodrich Corp.,United States,2290
+2004-01-01,CACI International,United States,2240
+2004-01-01,QinetiQ,United Kingdom,1570
+2004-01-01,Israel Aircraft Industries,Israel,2280
+2004-01-01,Kawasaki Heavy Industries,Japan,1150
+2004-01-01,Textron,United States,2100
+2004-01-01,Indian Ordnance Factories,India,2440
+2004-01-01,Titan Corp.,United States,2080
+2004-01-01,DRS Technologies,United States,2030
+2004-01-01,Smiths Group,United Kingdom,1400
+2004-01-01,Almaz-Antey,Russia,1770
+2004-01-01,URS Corp.,United States,1850
+2004-01-01,Anteon International Corp,United States,1820
+2004-01-01,New Izar,Spain,1410
+2004-01-01,SAGEM Groupe,France,1290
+2004-01-01,Booz Allen Hamilton,United States,1710
+2004-01-01,VT Group,United Kingdom,1180
+2004-01-01,Electronic Data Systems,United States,1600
+2004-01-01,Elbit Systems,Israel,1570
+2004-01-01,ThyssenKrupp,Germany,1180
+2004-01-01,Hindustan Aeronautics,India,1690
+2004-01-01,Cobham,United Kingdom,1020
+2004-01-01,Serco Group,United Kingdom,1010
+2004-01-01,AM General,United States,1390
+2004-01-01,ST Engineering,Singapore,1600
+2004-01-01,Engineered Support Systems,United States,1350
+2004-01-01,Mitsubishi Electric Corp.,Japan,720
+2004-01-01,Bechtel Corp.,United States,1290
+2004-01-01,Oshkosh Truck Corp.,United States,1240
+2004-01-01,ManTech International Corp.,United States,1240
+2004-01-01,Ishikawajima-Harima Heavy Industries,Japan,650
+2004-01-01,Rafael,Israel,1270
+2004-01-01,Krauss-Maffei Wegmann,Germany,950
+2004-01-01,GIAT Industries,France,860
+2004-01-01,Babcock International Group,United Kingdom,790
+2004-01-01,Diehl,Germany,820
+2004-01-01,RUAG,Switzerland,940
+2004-01-01,Bharat Electronics,India,1160
+2004-01-01,MTU Aero Engines,Germany,780
+2004-01-01,Indra,Spain,790
+2004-01-01,Armor Holdings,United States,980
+2004-01-01,NEC Corp.,Japan,510
+2004-01-01,Irkut,Russia,860
+2004-01-01,Jacobs Engineering Group,United States,940
+2004-01-01,Avio,Italy,700
+2004-01-01,Fincantieri,Italy,700
+2004-01-01,Chugach Alaska Corporation,United States,890
+2004-01-01,Stewart & Stevenson,United States,890
+2004-01-01,Precision Castparts Corp.,United States,870
+2004-01-01,ARINC,United States,850
+2004-01-01,The Aerospace Corp.,United States,820
+2004-01-01,Mitre Corp.,United States,810
+2004-01-01,Shaw Group,United States,770
+2004-01-01,Curtiss-Wright Corp.,United States,770
+2004-01-01,EDO,United States,770
+2004-01-01,DaimlerChrysler,Germany,590
+2004-01-01,Samsung Techwin,South Korea,620
+2004-01-01,CAE,Canada,660
+2004-01-01,Korea Aerospace Industries,South Korea,610
+2004-01-01,Cubic Corp.,United States,730
+2004-01-01,Ultra Electronics Group,United Kingdom,510
+2004-01-01,Aerokosmicheskoe Oborudovanie,Russia,650
+2004-01-01,Marine United,Japan,380
+2004-01-01,Tenix,Australia,660
+2004-01-01,Denel,South Africa,410
+2004-01-01,ADI,Australia,660
+2004-01-01,Vought Aircraft Industries,United States,710
+2004-01-01,Moog,United States,690
+2005-01-01,Boeing,United States,46150
+2005-01-01,Lockheed Martin Corp.,United States,40870
+2005-01-01,Northrop Grumman Corp.,United States,36390
+2005-01-01,BAE Systems,United Kingdom,23730
+2005-01-01,General Dynamics Corp.,United States,25850
+2005-01-01,Raytheon,United States,25140
+2005-01-01,EADS,Trans-European,11500
+2005-01-01,Thales,France,10340
+2005-01-01,Finmeccanica,Italy,10810
+2005-01-01,L-3 Communications,United States,13210
+2005-01-01,United Technologies Corp.,United States,10670
+2005-01-01,Halliburton,United States,9420
+2005-01-01,Science Applications International Corp.,United States,7910
+2005-01-01,Honeywell International,United States,6710
+2005-01-01,MBDA,Trans-European,4700
+2005-01-01,DCN,France,4070
+2005-01-01,Rolls-Royce,United Kingdom,3870
+2005-01-01,Computer Sciences Corp.,United States,5300
+2005-01-01,ITT Industries,United States,4980
+2005-01-01,General Electric,United States,4680
+2005-01-01,Safran,France,3040
+2005-01-01,Mitsubishi Heavy Industries,Japan,1930
+2005-01-01,Dassault Aviation Group,France,2560
+2005-01-01,Saab,Sweden,2100
+2005-01-01,Alliant Techsystems,United States,3210
+2005-01-01,Rockwell Collins,United States,2820
+2005-01-01,Textron,United States,2810
+2005-01-01,Rheinmetall,Germany,2160
+2005-01-01,CEA,France,1980
+2005-01-01,DRS Technologies,United States,2600
+2005-01-01,Almaz-Antey,Russia,2060
+2005-01-01,Electronic Data Systems,United States,2450
+2005-01-01,QinetiQ,United Kingdom,1730
+2005-01-01,Israel Aircraft Industries,Israel,2500
+2005-01-01,CACI International,United States,2360
+2005-01-01,Goodrich Corp.,United States,2360
+2005-01-01,Indian Ordnance Factories,India,2540
+2005-01-01,Smiths Group,United Kingdom,1620
+2005-01-01,Harris Corp.,United States,2250
+2005-01-01,URS Corp.,United States,2200
+2005-01-01,Kawasaki Heavy Industries,Japan,1200
+2005-01-01,Booz Allen Hamilton,United States,2140
+2005-01-01,Anteon International Corp,United States,2040
+2005-01-01,ThyssenKrupp,Germany,1630
+2005-01-01,AM General,United States,2000
+2005-01-01,Armor Holdings,United States,1860
+2005-01-01,VT Group,United Kingdom,1300
+2005-01-01,Hindustan Aeronautics,India,1910
+2005-01-01,Oshkosh Truck Corp.,United States,1650
+2005-01-01,Serco Group,United Kingdom,1150
+2005-01-01,Cobham,United Kingdom,1130
+2005-01-01,Elbit Systems,Israel,1650
+2005-01-01,Navantia,Spain,1210
+2005-01-01,Engineered Support Systems,United States,1510
+2005-01-01,Mitsubishi Electric Corp.,Japan,830
+2005-01-01,ManTech International Corp.,United States,1450
+2005-01-01,ST Engineering,Singapore,1690
+2005-01-01,GIAT Industries,France,1050
+2005-01-01,DynCorp International,United States,1360
+2005-01-01,Bechtel Corp.,United States,1330
+2005-01-01,Rafael,Israel,1320
+2005-01-01,NEC Corp.,Japan,670
+2005-01-01,Krauss-Maffei Wegmann,Germany,930
+2005-01-01,GKN,United Kingdom,820
+2005-01-01,Diehl,Germany,900
+2005-01-01,Ishikawajima-Harima Heavy Industries,Japan,600
+2005-01-01,Indra,Spain,840
+2005-01-01,Bumar Group,Poland,920
+2005-01-01,Admiralty Shipyards,Russia,850
+2005-01-01,Stewart & Stevenson,United States,980
+2005-01-01,Irkut,Russia,810
+2005-01-01,MTU Aero Engines,Germany,760
+2005-01-01,Babcock International Group,United Kingdom,680
+2005-01-01,Fincantieri,Italy,750
+2005-01-01,EDO,United States,940
+2005-01-01,RUAG,Switzerland,890
+2005-01-01,The Aerospace Corp.,United States,900
+2005-01-01,Mitre Corp.,United States,890
+2005-01-01,Jacobs Engineering Group,United States,890
+2005-01-01,Curtiss-Wright Corp.,United States,890
+2005-01-01,Bharat Electronics,India,980
+2005-01-01,Precision Castparts Corp.,United States,870
+2005-01-01,Cubic Corp.,United States,840
+2005-01-01,Sevmash,Russia,700
+2005-01-01,Korea Aerospace Industries,South Korea,630
+2005-01-01,Shaw Group,United States,830
+2005-01-01,DaimlerChrysler,Germany,660
+2005-01-01,Avio,Italy,640
+2005-01-01,Sukhoi,Russia,670
+2005-01-01,Chugach Alaska Corporation,United States,810
+2005-01-01,Samsung Techwin,South Korea,600
+2005-01-01,ADI,Australia,700
+2005-01-01,Tenix,Australia,700
+2005-01-01,Ultra Electronics Group,United Kingdom,550
+2005-01-01,United Industrial,United States,750
+2005-01-01,Vought Aircraft Industries,United States,730
+2005-01-01,Teledyne Technologies,United States,730
+2005-01-01,General Atomics,United States,720
+2005-01-01,Moog,United States,720
+2005-01-01,Meggitt,United Kingdom,510
+2006-01-01,Boeing,United States,46370
+2006-01-01,Lockheed Martin Corp.,United States,42490
+2006-01-01,BAE Systems,United Kingdom,25580
+2006-01-01,Northrop Grumman Corp.,United States,35740
+2006-01-01,General Dynamics Corp.,United States,28360
+2006-01-01,Raytheon,United States,26610
+2006-01-01,EADS,Trans-European,14750
+2006-01-01,L-3 Communications,United States,15080
+2006-01-01,Finmeccanica,Italy,10340
+2006-01-01,Thales,France,9300
+2006-01-01,United Technologies Corp.,United States,11560
+2006-01-01,Halliburton,United States,10020
+2006-01-01,Science Applications International Corp.,United States,8760
+2006-01-01,Honeywell International,United States,6650
+2006-01-01,MBDA,Trans-European,4780
+2006-01-01,Rolls-Royce,United Kingdom,4260
+2006-01-01,Computer Sciences Corp.,United States,5440
+2006-01-01,DCN,France,3840
+2006-01-01,ITT Industries,United States,4970
+2006-01-01,General Electric,United States,4930
+2006-01-01,Safran,France,3110
+2006-01-01,DRS Technologies,United States,4140
+2006-01-01,Alliant Techsystems,United States,3550
+2006-01-01,Mitsubishi Heavy Industries,Japan,2070
+2006-01-01,Saab,Sweden,2180
+2006-01-01,Textron,United States,3290
+2006-01-01,Electronic Data Systems,United States,3280
+2006-01-01,Rockwell Collins,United States,3080
+2006-01-01,Almaz-Antey,Russia,2210
+2006-01-01,Armor Holdings,United States,2920
+2006-01-01,Rheinmetall,Germany,2200
+2006-01-01,Israel Aerospace Industries,Israel,2800
+2006-01-01,AM General,United States,2570
+2006-01-01,Harris Corp.,United States,2510
+2006-01-01,CACI International,United States,2510
+2006-01-01,QinetiQ,United Kingdom,1730
+2006-01-01,CEA,France,1790
+2006-01-01,Dassault Aviation Group,France,1770
+2006-01-01,Hindustan Aeronautics,India,2640
+2006-01-01,URS Corp.,United States,2310
+2006-01-01,ThyssenKrupp,Germany,1840
+2006-01-01,Smiths Group,United Kingdom,1590
+2006-01-01,Goodrich Corp.,United States,2220
+2006-01-01,Booz Allen Hamilton,United States,2190
+2006-01-01,VT Group,United Kingdom,1510
+2006-01-01,Elbit Systems,Israel,2240
+2006-01-01,Oshkosh Truck Corp.,United States,1990
+2006-01-01,Indian Ordnance Factories,India,2190
+2006-01-01,Krauss-Maffei Wegmann,Germany,1440
+2006-01-01,Serco Group,United Kingdom,1260
+2006-01-01,Kawasaki Heavy Industries,Japan,1060
+2006-01-01,Cobham,United Kingdom,1230
+2006-01-01,Navantia,Spain,1350
+2006-01-01,ManTech International Corp.,United States,1630
+2006-01-01,Mitsubishi Electric Corp.,Japan,950
+2006-01-01,Bechtel Corp.,United States,1510
+2006-01-01,Rafael,Israel,1520
+2006-01-01,Nexter,France,1020
+2006-01-01,DynCorp International,United States,1360
+2006-01-01,ST Engineering,Singapore,1530
+2006-01-01,Diehl,Germany,1030
+2006-01-01,Bumar Group,Poland,1090
+2006-01-01,NEC Corp.,Japan,740
+2006-01-01,Babcock International Group,United Kingdom,820
+2006-01-01,GKN,United Kingdom,800
+2006-01-01,Indra,Spain,890
+2006-01-01,Irkut,Russia,840
+2006-01-01,Ishikawajima-Harima Heavy Industries,Japan,660
+2006-01-01,Precision Castparts Corp.,United States,1040
+2006-01-01,Jacobs Engineering Group,United States,1010
+2006-01-01,Bharat Electronics,India,1120
+2006-01-01,EDO,United States,1000
+2006-01-01,Tactical Missiles Corp.,Russia,740
+2006-01-01,The Aerospace Corp.,United States,970
+2006-01-01,General Atomics,United States,950
+2006-01-01,Mitre Corp.,United States,940
+2006-01-01,MTU Aero Engines,Germany,740
+2006-01-01,Sukhoi,Russia,680
+2006-01-01,Fincantieri,Italy,690
+2006-01-01,Samsung Techwin,South Korea,620
+2006-01-01,Curtiss-Wright Corp.,United States,880
+2006-01-01,Korea Aerospace Industries,South Korea,610
+2006-01-01,RAC MiG,Russia,650
+2006-01-01,Cubic Corp.,United States,850
+2006-01-01,Vought Aircraft Industries,United States,850
+2006-01-01,Chugach Alaska Corporation,United States,830
+2006-01-01,Moog,United States,830
+2006-01-01,United Industrial,United States,830
+2006-01-01,RUAG,Switzerland,810
+2006-01-01,Teledyne Technologies,United States,820
+2006-01-01,Shaw Group,United States,820
+2006-01-01,ARINC,United States,820
+2006-01-01,UMPO,Russia,600
+2006-01-01,Ultra Electronics Group,United Kingdom,570
+2006-01-01,Hyundai Heavy Industries,South Korea,560
+2006-01-01,Tenix,Australia,700
+2006-01-01,Severnaya Verf,Russia,580
+2006-01-01,Ceradyne,United States,770
+2006-01-01,Aerokosmicheskoe Oborudovanie,Russia,570
+2006-01-01,Avio,Italy,600
+2007-01-01,Boeing,United States,44780
+2007-01-01,Lockheed Martin Corp.,United States,43190
+2007-01-01,BAE Systems,United Kingdom,28310
+2007-01-01,Northrop Grumman Corp.,United States,36140
+2007-01-01,General Dynamics Corp.,United States,31620
+2007-01-01,Raytheon,United States,28710
+2007-01-01,EADS,Trans-European,13780
+2007-01-01,L-3 Communications,United States,16510
+2007-01-01,Finmeccanica,Italy,10610
+2007-01-01,Thales,France,9530
+2007-01-01,United Technologies Corp.,United States,12870
+2007-01-01,Science Applications International Corp.,United States,9200
+2007-01-01,Honeywell International,United States,7370
+2007-01-01,KBR,United States,7350
+2007-01-01,Rolls-Royce,United Kingdom,4420
+2007-01-01,MBDA,Trans-European,4250
+2007-01-01,DCNS,France,3930
+2007-01-01,Computer Sciences Corp.,United States,5670
+2007-01-01,ITT Corporation,United States,5660
+2007-01-01,General Electric,United States,5080
+2007-01-01,DRS Technologies,United States,4750
+2007-01-01,Almaz-Antey,Russia,2720
+2007-01-01,Saab,Sweden,2410
+2007-01-01,AM General,United States,3920
+2007-01-01,Safran,France,2600
+2007-01-01,Electronic Data Systems,United States,3730
+2007-01-01,Textron,United States,3690
+2007-01-01,Alliant Techsystems,United States,3610
+2007-01-01,Rheinmetall,Germany,2610
+2007-01-01,Dassault Aviation Group,France,2420
+2007-01-01,Mitsubishi Heavy Industries,Japan,2150
+2007-01-01,URS Corp.,United States,3360
+2007-01-01,Rockwell Collins,United States,3280
+2007-01-01,QinetiQ,United Kingdom,2090
+2007-01-01,CACI International,United States,3110
+2007-01-01,Israel Aerospace Industries,Israel,2880
+2007-01-01,Babcock International Group,United Kingdom,1850
+2007-01-01,Elbit Systems,Israel,2810
+2007-01-01,VT Group,United Kingdom,1810
+2007-01-01,Booz Allen Hamilton,United States,2670
+2007-01-01,CEA,France,1790
+2007-01-01,ThyssenKrupp,Germany,1890
+2007-01-01,Harris Corp.,United States,2530
+2007-01-01,Sukhoi,Russia,1670
+2007-01-01,Krauss-Maffei Wegmann,Germany,1840
+2007-01-01,Hindustan Aeronautics,India,2440
+2007-01-01,Goodrich Corp.,United States,2350
+2007-01-01,Indian Ordnance Factories,India,2300
+2007-01-01,Oshkosh Truck Corp.,United States,2310
+2007-01-01,Serco Group,United Kingdom,1390
+2007-01-01,Navantia,Spain,1480
+2007-01-01,ManTech International Corp.,United States,1980
+2007-01-01,Cobham,United Kingdom,1180
+2007-01-01,Bechtel Corp.,United States,1720
+2007-01-01,Rafael,Israel,1680
+2007-01-01,ST Engineering,Singapore,1780
+2007-01-01,EDO,United States,1560
+2007-01-01,Tactical Missiles Corp.,Russia,1030
+2007-01-01,GKN,United Kingdom,920
+2007-01-01,Diehl,Germany,980
+2007-01-01,DynCorp International,United States,1320
+2007-01-01,Irkut,Russia,880
+2007-01-01,Force Protection,United States,1310
+2007-01-01,Bumar Group,Poland,1000
+2007-01-01,Indra,Spain,930
+2007-01-01,Bharat Electronics,India,1230
+2007-01-01,Precision Castparts Corp.,United States,1200
+2007-01-01,Nexter,France,820
+2007-01-01,Samsung Techwin,South Korea,780
+2007-01-01,General Atomics,United States,1100
+2007-01-01,NEC Corp.,Japan,690
+2007-01-01,Jacobs Engineering Group,United States,1090
+2007-01-01,Chugach Alaska Corporation,United States,1060
+2007-01-01,The Aerospace Corp.,United States,1030
+2007-01-01,LIG Nex1,South Korea,700
+2007-01-01,Mitre Corp.,United States,1000
+2007-01-01,MTU Aero Engines,Germany,740
+2007-01-01,Meggitt,United Kingdom,650
+2007-01-01,Fincantieri,Italy,710
+2007-01-01,Alion Science & Technology Corp.,United States,970
+2007-01-01,Korea Aerospace Industries,South Korea,660
+2007-01-01,Cubic Corp.,United States,940
+2007-01-01,Patria Group,Finland,690
+2007-01-01,Teledyne Technologies,United States,910
+2007-01-01,Ultra Electronics Group,United Kingdom,600
+2007-01-01,Curtiss-Wright Corp.,United States,900
+2007-01-01,Moog,United States,870
+2007-01-01,UMPO,Russia,580
+2007-01-01,Kawasaki Heavy Industries,Japan,540
+2007-01-01,GenCorp,United States,850
+2007-01-01,RUAG,Switzerland,830
+2007-01-01,CAE,Canada,640
+2007-01-01,Avio,Italy,610
+2007-01-01,Ceradyne,United States,820
+2007-01-01,IHI Corp.,Japan,510
+2007-01-01,ARINC,United States,810
+2007-01-01,FIAT,Italy,590
+2007-01-01,Tenix,Australia,660
+2007-01-01,Kongsberg Gruppen,Norway,460
+2007-01-01,VSE Corp.,United States,790
+2008-01-01,BAE Systems,United Kingdom,31220
+2008-01-01,Boeing,United States,42440
+2008-01-01,Lockheed Martin Corp.,United States,42270
+2008-01-01,Northrop Grumman Corp.,United States,36910
+2008-01-01,General Dynamics Corp.,United States,29810
+2008-01-01,Raytheon,United States,29750
+2008-01-01,EADS,Trans-European,17150
+2008-01-01,Finmeccanica,Italy,12890
+2008-01-01,L-3 Communications,United States,17200
+2008-01-01,Thales,France,9960
+2008-01-01,United Technologies Corp.,United States,14120
+2008-01-01,Science Applications International Corp.,United States,10400
+2008-01-01,KBR,United States,8110
+2008-01-01,Honeywell International,United States,7510
+2008-01-01,ITT Corporation,United States,7310
+2008-01-01,Rolls-Royce,United Kingdom,4790
+2008-01-01,Almaz-Antey,Russia,3620
+2008-01-01,Computer Sciences Corp.,United States,5940
+2008-01-01,AM General,United States,5720
+2008-01-01,Navistar,United States,5520
+2008-01-01,MBDA,Trans-European,3720
+2008-01-01,Mitsubishi Heavy Industries,Japan,3110
+2008-01-01,DCNS,France,3390
+2008-01-01,General Electric,United States,5160
+2008-01-01,Textron,United States,4840
+2008-01-01,Saab,Sweden,2460
+2008-01-01,Safran,France,2600
+2008-01-01,URS Corp.,United States,3790
+2008-01-01,Alliant Techsystems,United States,3790
+2008-01-01,Rheinmetall,Germany,2630
+2008-01-01,Agility,Kuwait,3520
+2008-01-01,Hewlett-Packard Company,United States,3590
+2008-01-01,Elbit Systems,Israel,3090
+2008-01-01,Harris Corp.,United States,3510
+2008-01-01,United Aircraft Corp.,Russia,2000
+2008-01-01,CACI International,United States,3400
+2008-01-01,Rockwell Collins,United States,3350
+2008-01-01,Israel Aerospace Industries,Israel,2740
+2008-01-01,Booz Allen Hamilton,United States,3110
+2008-01-01,QinetiQ,United Kingdom,2200
+2008-01-01,Dassault Aviation Group,France,1940
+2008-01-01,Oshkosh Corp.,United States,2930
+2008-01-01,Babcock International Group,United Kingdom,2050
+2008-01-01,CEA,France,1860
+2008-01-01,Serco Group,United Kingdom,1980
+2008-01-01,Krauss-Maffei Wegmann,Germany,1930
+2008-01-01,Cobham,United Kingdom,1940
+2008-01-01,Hindustan Aeronautics,India,2710
+2008-01-01,Navantia,Spain,1800
+2008-01-01,DynCorp International,United States,2630
+2008-01-01,Goodrich Corp.,United States,2500
+2008-01-01,ThyssenKrupp,Germany,1740
+2008-01-01,ManTech International Corp.,United States,2490
+2008-01-01,Indian Ordnance Factories,India,2210
+2008-01-01,Rafael,Israel,1880
+2008-01-01,Kawasaki Heavy Industries,Japan,1190
+2008-01-01,Bechtel Corp.,United States,2070
+2008-01-01,Force Protection,United States,1880
+2008-01-01,ST Engineering,Singapore,1820
+2008-01-01,VT Group,United Kingdom,1230
+2008-01-01,Mitsubishi Electric Corp.,Japan,960
+2008-01-01,Tactical Missiles Corp.,Russia,960
+2008-01-01,Bumar Group,Poland,1060
+2008-01-01,GKN,United Kingdom,1090
+2008-01-01,Indra,Spain,960
+2008-01-01,Jacobs Engineering Group,United States,1360
+2008-01-01,Diehl,Germany,930
+2008-01-01,General Atomics,United States,1290
+2008-01-01,Bharat Electronics,India,1270
+2008-01-01,Precision Castparts Corp.,United States,1260
+2008-01-01,Nexter,France,790
+2008-01-01,Meggitt,United Kingdom,840
+2008-01-01,VSE Corp.,United States,1170
+2008-01-01,NEC Corp.,Japan,660
+2008-01-01,Shaw Group,United States,1130
+2008-01-01,LIG Nex1,South Korea,890
+2008-01-01,Chugach Alaska Corporation,United States,1080
+2008-01-01,RUAG,Switzerland,960
+2008-01-01,The Aerospace Corp.,United States,1060
+2008-01-01,Samsung Techwin,South Korea,860
+2008-01-01,Kongsberg Gruppen,Norway,580
+2008-01-01,Mitre Corp.,United States,1050
+2008-01-01,Ultra Electronics Group,United Kingdom,740
+2008-01-01,MTU Aero Engines,Germany,720
+2008-01-01,Moog,United States,1020
+2008-01-01,Tetra Tech,United States,1020
+2008-01-01,ARINC,United States,990
+2008-01-01,Teledyne Technologies,United States,960
+2008-01-01,Russian Helicopters,Russia,570
+2008-01-01,CAE,Canada,740
+2008-01-01,FIAT,Italy,660
+2008-01-01,Patria Group,Finland,640
+2008-01-01,Fincantieri,Italy,650
+2008-01-01,Curtiss-Wright Corp.,United States,930
+2008-01-01,Alion Science & Technology Corp.,United States,910
+2008-01-01,Avio,Italy,610
+2008-01-01,IHI Corp.,Japan,510
+2008-01-01,Chemring Group,United Kingdom,630
+2008-01-01,Israel Military Industries,Israel,760
+2008-01-01,Cubic Corp.,United States,860
+2009-01-01,Lockheed Martin Corp.,United States,47470
+2009-01-01,Boeing,United States,45290
+2009-01-01,BAE Systems,United Kingdom,37390
+2009-01-01,Northrop Grumman Corp.,United States,36920
+2009-01-01,General Dynamics Corp.,United States,33200
+2009-01-01,Raytheon,United States,32770
+2009-01-01,EADS,Trans-European,16060
+2009-01-01,Finmeccanica,Italy,13530
+2009-01-01,L-3 Communications,United States,18470
+2009-01-01,United Technologies Corp.,United States,15110
+2009-01-01,Thales,France,9950
+2009-01-01,Science Applications International Corp.,United States,11400
+2009-01-01,Honeywell International,United States,7640
+2009-01-01,KBR,United States,7080
+2009-01-01,ITT Corporation,United States,6720
+2009-01-01,General Electric,United States,6670
+2009-01-01,Computer Sciences Corp.,United States,6520
+2009-01-01,Rolls-Royce,United Kingdom,5010
+2009-01-01,Mitsubishi Heavy Industries,Japan,3070
+2009-01-01,AM General,United States,5280
+2009-01-01,MBDA,Trans-European,3640
+2009-01-01,DCNS,France,3260
+2009-01-01,Textron,United States,4630
+2009-01-01,Almaz-Antey,Russia,3100
+2009-01-01,Alliant Techsystems,United States,3990
+2009-01-01,Navistar,United States,3980
+2009-01-01,CACI International,United States,3960
+2009-01-01,URS Corp.,United States,3950
+2009-01-01,Oshkosh Corp.,United States,3930
+2009-01-01,Safran,France,2680
+2009-01-01,United Aircraft Corp.,Russia,2580
+2009-01-01,Elbit Systems,Israel,3510
+2009-01-01,Harris Corp.,United States,3830
+2009-01-01,DynCorp International,United States,3760
+2009-01-01,Saab,Sweden,2520
+2009-01-01,Booz Allen Hamilton,United States,3750
+2009-01-01,Rheinmetall,Germany,2750
+2009-01-01,Rockwell Collins,United States,3660
+2009-01-01,Agility,Kuwait,3500
+2009-01-01,Cobham,United Kingdom,2660
+2009-01-01,Hindustan Aeronautics,India,3080
+2009-01-01,CEA,France,2110
+2009-01-01,Serco Group,United Kingdom,2480
+2009-01-01,Israel Aerospace Industries,Israel,2640
+2009-01-01,Babcock International Group,United Kingdom,2360
+2009-01-01,Goodrich Corp.,United States,2850
+2009-01-01,ThyssenKrupp,Germany,2060
+2009-01-01,Navantia,Spain,2010
+2009-01-01,Bechtel Corp.,United States,2730
+2009-01-01,ManTech International Corp.,United States,2730
+2009-01-01,United Shipbuilding Corp.,Russia,1730
+2009-01-01,QinetiQ,United Kingdom,2080
+2009-01-01,Indian Ordnance Factories,India,2400
+2009-01-01,Krauss-Maffei Wegmann,Germany,1700
+2009-01-01,Hewlett-Packard Company,United States,2240
+2009-01-01,Rafael,Israel,2040
+2009-01-01,Mitsubishi Electric Corp.,Japan,1140
+2009-01-01,ST Engineering,Singapore,2110
+2009-01-01,Dassault Aviation Group,France,1330
+2009-01-01,VT Group,United Kingdom,1460
+2009-01-01,Nexter,France,1200
+2009-01-01,General Atomics,United States,1600
+2009-01-01,Jacobs Engineering Group,United States,1600
+2009-01-01,Kawasaki Heavy Industries,Japan,820
+2009-01-01,GKN,United Kingdom,1300
+2009-01-01,Shaw Group,United States,1560
+2009-01-01,Kongsberg Gruppen,Norway,940
+2009-01-01,Diehl,Germany,1110
+2009-01-01,Force Protection,United States,1390
+2009-01-01,Indra,Spain,950
+2009-01-01,Samsung Techwin,South Korea,1210
+2009-01-01,Moog,United States,1310
+2009-01-01,Bharat Electronics,India,1310
+2009-01-01,Russian Helicopters,Russia,850
+2009-01-01,Tactical Missiles Corp.,Russia,840
+2009-01-01,Chugach Alaska Corporation,United States,1250
+2009-01-01,Precision Castparts Corp.,United States,1250
+2009-01-01,NEC Corp.,Japan,630
+2009-01-01,Fincantieri,Italy,880
+2009-01-01,VSE Corp.,United States,1190
+2009-01-01,Ultra Electronics Group,United Kingdom,950
+2009-01-01,Meggitt,United Kingdom,950
+2009-01-01,UralVagonZavod,Russia,750
+2009-01-01,Mitre Corp.,United States,1110
+2009-01-01,Bumar Group,Poland,930
+2009-01-01,The Aerospace Corp.,United States,1090
+2009-01-01,Curtiss-Wright Corp.,United States,1080
+2009-01-01,Chemring Group,United Kingdom,880
+2009-01-01,LIG Nex1,South Korea,970
+2009-01-01,MTU Aero Engines,Germany,770
+2009-01-01,Alion Science & Technology Corp.,United States,1050
+2009-01-01,RUAG,Switzerland,930
+2009-01-01,Plasan Sasa,Israel,940
+2009-01-01,Teledyne Technologies,United States,1020
+2009-01-01,Cubic Corp.,United States,1010
+2009-01-01,CAE,Canada,820
+2009-01-01,Tetra Tech,United States,1010
+2009-01-01,Fluor Corp.,United States,1010
+2009-01-01,United Engine Corp.,Russia,650
+2009-01-01,Avio,Italy,690
+2010-01-01,Lockheed Martin Corp.,United States,49910
+2010-01-01,BAE Systems,United Kingdom,38240
+2010-01-01,Boeing,United States,41910
+2010-01-01,Northrop Grumman Corp.,United States,37440
+2010-01-01,General Dynamics Corp.,United States,33440
+2010-01-01,Raytheon,United States,32100
+2010-01-01,EADS,Trans-European,17070
+2010-01-01,Finmeccanica,Italy,15170
+2010-01-01,L-3 Communications,United States,18260
+2010-01-01,United Technologies Corp.,United States,15340
+2010-01-01,Thales,France,10030
+2010-01-01,Science Applications International Corp.,United States,11500
+2010-01-01,Oshkosh Corp.,United States,9890
+2010-01-01,Honeywell International,United States,7540
+2010-01-01,Mitsubishi Heavy Industries,Japan,3180
+2010-01-01,Computer Sciences Corp.,United States,6290
+2010-01-01,Rolls-Royce,United Kingdom,5000
+2010-01-01,General Electric,United States,6010
+2010-01-01,ITT Corporation,United States,5590
+2010-01-01,Almaz-Antey,Russia,3370
+2010-01-01,United Aircraft Corp.,Russia,3250
+2010-01-01,MBDA,Trans-European,3800
+2010-01-01,Textron,United States,5030
+2010-01-01,United Shipbuilding Corp.,Russia,2870
+2010-01-01,DCNS,France,3350
+2010-01-01,KBR,United States,4620
+2010-01-01,CACI International,United States,4510
+2010-01-01,URS Corp.,United States,4230
+2010-01-01,Booz Allen Hamilton,United States,4190
+2010-01-01,Harris Corp.,United States,4190
+2010-01-01,Hewlett-Packard Company,United States,4040
+2010-01-01,Rockwell Collins,United States,4000
+2010-01-01,Safran,France,2880
+2010-01-01,Saab,Sweden,2470
+2010-01-01,Alliant Techsystems,United States,3880
+2010-01-01,Babcock International Group,United Kingdom,3200
+2010-01-01,Rheinmetall,Germany,2870
+2010-01-01,Hindustan Aeronautics,India,3140
+2010-01-01,ManTech International Corp.,United States,3490
+2010-01-01,Elbit Systems,Israel,2990
+2010-01-01,Israel Aerospace Industries,Israel,2890
+2010-01-01,Indian Ordnance Factories,India,2790
+2010-01-01,Cobham,United Kingdom,2610
+2010-01-01,Goodrich Corp.,United States,3120
+2010-01-01,DynCorp International,United States,3090
+2010-01-01,CEA,France,2220
+2010-01-01,Bechtel Corp.,United States,3050
+2010-01-01,Serco Group,United Kingdom,2460
+2010-01-01,Kawasaki Heavy Industries,Japan,1450
+2010-01-01,Navantia,Spain,2100
+2010-01-01,QinetiQ,United Kingdom,2220
+2010-01-01,AM General,United States,2650
+2010-01-01,Navistar,United States,2510
+2010-01-01,ST Engineering,Singapore,2390
+2010-01-01,Rafael,Israel,2150
+2010-01-01,Mitsubishi Electric Corp.,Japan,1160
+2010-01-01,Krauss-Maffei Wegmann,Germany,1740
+2010-01-01,Russian Helicopters,Russia,1350
+2010-01-01,Kongsberg Gruppen,Norway,1210
+2010-01-01,Nexter,France,1440
+2010-01-01,IHI Corp.,Japan,980
+2010-01-01,General Atomics,United States,1970
+2010-01-01,ThyssenKrupp,Germany,1450
+2010-01-01,Agility,Kuwait,1760
+2010-01-01,Fluor Corp.,United States,1820
+2010-01-01,Dassault Aviation Group,France,1280
+2010-01-01,United Engine Corp.,Russia,1070
+2010-01-01,Tactical Missiles Corp.,Russia,940
+2010-01-01,Jacobs Engineering Group,United States,1520
+2010-01-01,Triumph Group,United States,1510
+2010-01-01,Diehl,Germany,1160
+2010-01-01,GKN,United Kingdom,1210
+2010-01-01,Samsung Techwin,South Korea,1150
+2010-01-01,Bharat Electronics,India,1200
+2010-01-01,NEC Corp.,Japan,680
+2010-01-01,Moog,United States,1340
+2010-01-01,Fincantieri,Italy,990
+2010-01-01,Chemring Group,United Kingdom,1030
+2010-01-01,Bumar Group,Poland,1000
+2010-01-01,Ultra Electronics Group,United Kingdom,1020
+2010-01-01,CAE,Canada,860
+2010-01-01,RUAG,Switzerland,1000
+2010-01-01,LIG Nex1,South Korea,940
+2010-01-01,Shaw Group,United States,1130
+2010-01-01,The Aerospace Corp.,United States,1130
+2010-01-01,Precision Castparts Corp.,United States,1130
+2010-01-01,Cubic Corp.,United States,1130
+2010-01-01,Mitre Corp.,United States,1100
+2010-01-01,Meggitt,United Kingdom,900
+2010-01-01,Curtiss-Wright Corp.,United States,1090
+2010-01-01,Alion Science & Technology Corp.,United States,1080
+2010-01-01,ASELSAN,Türkiye,400
+2010-01-01,Korea Aerospace Industries,South Korea,840
+2010-01-01,UralVagonZavod,Russia,620
+2010-01-01,Hawker Beechcraft Corp.,United States,980
+2010-01-01,Doosan,South Korea,790
+2010-01-01,Esterline Technologies Corp.,United States,960
+2010-01-01,Salut,Russia,590
+2010-01-01,VSE Corp.,United States,950
+2010-01-01,Embraer,Brazil,500
+2011-01-01,Lockheed Martin Corp.,United States,49120
+2011-01-01,Boeing,United States,41030
+2011-01-01,BAE Systems,United Kingdom,31630
+2011-01-01,General Dynamics Corp.,United States,31590
+2011-01-01,Raytheon,United States,31010
+2011-01-01,Northrop Grumman Corp.,United States,27540
+2011-01-01,EADS,Trans-European,15970
+2011-01-01,Finmeccanica,Italy,14210
+2011-01-01,L-3 Communications,United States,16950
+2011-01-01,United Technologies Corp.,United States,15100
+2011-01-01,Thales,France,8910
+2011-01-01,Science Applications International Corp.,United States,10750
+2011-01-01,Huntington Ingalls Industries,United States,8640
+2011-01-01,Honeywell International,United States,7150
+2011-01-01,United Aircraft Corp.,Russia,3690
+2011-01-01,Rolls-Royce,United Kingdom,5080
+2011-01-01,Oshkosh Corp.,United States,5920
+2011-01-01,ITT Exelis,United States,5620
+2011-01-01,MBDA,Trans-European,3990
+2011-01-01,General Electric,United States,5550
+2011-01-01,Almaz-Antey,Russia,3040
+2011-01-01,Computer Sciences Corp.,United States,5230
+2011-01-01,Mitsubishi Heavy Industries,Japan,2300
+2011-01-01,DCNS,France,3390
+2011-01-01,Textron,United States,4740
+2011-01-01,Harris Corp.,United States,4600
+2011-01-01,CACI International,United States,4580
+2011-01-01,United Shipbuilding Corp.,Russia,2570
+2011-01-01,Babcock International Group,United Kingdom,3460
+2011-01-01,Booz Allen Hamilton,United States,4200
+2011-01-01,Safran,France,2910
+2011-01-01,Saab,Sweden,2400
+2011-01-01,Rheinmetall,Germany,3000
+2011-01-01,Hewlett-Packard Company,United States,3970
+2011-01-01,Rockwell Collins,United States,3810
+2011-01-01,Hindustan Aeronautics,India,3130
+2011-01-01,ManTech International Corp.,United States,3750
+2011-01-01,Russian Helicopters,Russia,2090
+2011-01-01,DynCorp International,United States,3640
+2011-01-01,Elbit Systems,Israel,2990
+2011-01-01,URS Corp.,United States,3620
+2011-01-01,Alliant Techsystems,United States,3450
+2011-01-01,Indian Ordnance Factories,India,2830
+2011-01-01,Israel Aerospace Industries,Israel,2790
+2011-01-01,Goodrich Corp.,United States,3280
+2011-01-01,Bechtel Corp.,United States,3160
+2011-01-01,CEA,France,2160
+2011-01-01,Fluor Corp.,United States,3060
+2011-01-01,Kawasaki Heavy Industries,Japan,1430
+2011-01-01,Serco Group,United Kingdom,2390
+2011-01-01,KBR,United States,2950
+2011-01-01,Cobham,United Kingdom,2320
+2011-01-01,ThyssenKrupp,Germany,2100
+2011-01-01,Navistar,United States,2710
+2011-01-01,ST Engineering,Singapore,2270
+2011-01-01,Rafael,Israel,2160
+2011-01-01,General Atomics,United States,2320
+2011-01-01,Mitsubishi Electric Corp.,Japan,1060
+2011-01-01,Navantia,Spain,1590
+2011-01-01,IHI Corp.,Japan,1020
+2011-01-01,QinetiQ,United Kingdom,1700
+2011-01-01,Kongsberg Gruppen,Norway,1060
+2011-01-01,Fincantieri,Italy,1360
+2011-01-01,UkrOboronProm,Ukraine,1200
+2011-01-01,United Engine Corp.,Russia,1010
+2011-01-01,Tactical Missiles Corp.,Russia,960
+2011-01-01,Fujitsu,Japan,790
+2011-01-01,Krauss-Maffei Wegmann,Germany,1250
+2011-01-01,Dassault Aviation Group,France,1170
+2011-01-01,NEC Corp.,Japan,720
+2011-01-01,AM General,United States,1530
+2011-01-01,Nexter,France,1050
+2011-01-01,Samsung Techwin,South Korea,1160
+2011-01-01,Triumph Group,United States,1480
+2011-01-01,Chemring Group,United Kingdom,1160
+2011-01-01,Jacobs Engineering Group,United States,1420
+2011-01-01,RUAG,Switzerland,1070
+2011-01-01,Diehl,Germany,1020
+2011-01-01,Moog,United States,1350
+2011-01-01,GKN,United Kingdom,1040
+2011-01-01,Meggitt,United Kingdom,1010
+2011-01-01,AAR CORP,United States,1260
+2011-01-01,Bharat Electronics,India,1030
+2011-01-01,CAE,Canada,860
+2011-01-01,UralVagonZavod,Russia,690
+2011-01-01,Korea Aerospace Industries,South Korea,940
+2011-01-01,Cubic Corp.,United States,1180
+2011-01-01,Precision Castparts Corp.,United States,1180
+2011-01-01,Embraer,Brazil,580
+2011-01-01,Ultra Electronics Group,United Kingdom,920
+2011-01-01,ASELSAN,Türkiye,470
+2011-01-01,Plasan Sasa,Israel,940
+2011-01-01,The Aerospace Corp.,United States,1140
+2011-01-01,Doosan,South Korea,870
+2011-01-01,Bumar Group,Poland,890
+2011-01-01,ASC,Australia,720
+2011-01-01,Curtiss-Wright Corp.,United States,1120
+2011-01-01,LIG Nex1,South Korea,860
+2011-01-01,Mitre Corp.,United States,1070
+2011-01-01,United Launch Alliance,United States,1060
+2012-01-01,Lockheed Martin Corp.,United States,47760
+2012-01-01,Boeing,United States,40600
+2012-01-01,BAE Systems,United Kingdom,28840
+2012-01-01,Raytheon,United States,29850
+2012-01-01,General Dynamics Corp.,United States,27780
+2012-01-01,Northrop Grumman Corp.,United States,25740
+2012-01-01,EADS,Trans-European,15910
+2012-01-01,Finmeccanica,Italy,12840
+2012-01-01,United Technologies Corp.,United States,16080
+2012-01-01,L-3 Communications,United States,14380
+2012-01-01,Thales,France,8860
+2012-01-01,Science Applications International Corp.,United States,10370
+2012-01-01,Huntington Ingalls Industries,United States,8540
+2012-01-01,Almaz-Antey,Russia,4420
+2012-01-01,Honeywell International,United States,6780
+2012-01-01,Rolls-Royce,United Kingdom,5300
+2012-01-01,United Aircraft Corp.,Russia,3330
+2012-01-01,General Electric,United States,5440
+2012-01-01,Oshkosh Corp.,United States,5240
+2012-01-01,ITT Exelis,United States,5040
+2012-01-01,MBDA,Trans-European,3920
+2012-01-01,Computer Sciences Corp.,United States,4900
+2012-01-01,DCNS,France,3590
+2012-01-01,Textron,United States,4710
+2012-01-01,Russian Helicopters,Russia,2680
+2012-01-01,Harris Corp.,United States,4270
+2012-01-01,Booz Allen Hamilton,United States,4250
+2012-01-01,CACI International,United States,4220
+2012-01-01,Babcock International Group,United Kingdom,3370
+2012-01-01,Safran,France,3070
+2012-01-01,Mitsubishi Heavy Industries,Japan,1910
+2012-01-01,Rheinmetall,Germany,3210
+2012-01-01,DynCorp International,United States,3980
+2012-01-01,Saab,Sweden,2340
+2012-01-01,URS Corp.,United States,3780
+2012-01-01,Elbit Systems,Israel,3250
+2012-01-01,Rockwell Collins,United States,3440
+2012-01-01,Israel Aerospace Industries,Israel,3000
+2012-01-01,Hewlett-Packard Company,United States,3320
+2012-01-01,ManTech International Corp.,United States,3280
+2012-01-01,United Engine Corp.,Russia,1870
+2012-01-01,Hindustan Aeronautics,India,2860
+2012-01-01,Kawasaki Heavy Industries,Japan,1540
+2012-01-01,United Launch Alliance,United States,3170
+2012-01-01,Bechtel Corp.,United States,3100
+2012-01-01,United Shipbuilding Corp.,Russia,1770
+2012-01-01,Alliant Techsystems,United States,3090
+2012-01-01,Fluor Corp.,United States,3000
+2012-01-01,Serco Group,United Kingdom,2330
+2012-01-01,CEA,France,2190
+2012-01-01,Indian Ordnance Factories,India,2500
+2012-01-01,General Atomics,United States,2750
+2012-01-01,ST Engineering,Singapore,2090
+2012-01-01,Cobham,United Kingdom,2000
+2012-01-01,IHI Corp.,Japan,1190
+2012-01-01,Rafael,Israel,2010
+2012-01-01,ThyssenKrupp,Germany,1640
+2012-01-01,NEC Corp.,Japan,970
+2012-01-01,UkrOboronProm,Ukraine,1360
+2012-01-01,Dassault Aviation Group,France,1470
+2012-01-01,Fincantieri,Italy,1490
+2012-01-01,Mitsubishi Electric Corp.,Japan,900
+2012-01-01,QinetiQ,United Kingdom,1500
+2012-01-01,KRET,Russia,1050
+2012-01-01,Engility,United States,1660
+2012-01-01,Kongsberg Gruppen,Norway,900
+2012-01-01,UralVagonZavod,Russia,860
+2012-01-01,Navantia,Spain,1150
+2012-01-01,Fujitsu,Japan,720
+2012-01-01,Chemring Group,United Kingdom,1190
+2012-01-01,Samsung Techwin,South Korea,1130
+2012-01-01,Embraer,Brazil,790
+2012-01-01,Korea Aerospace Industries,South Korea,1080
+2012-01-01,Triumph Group,United States,1370
+2012-01-01,Jacobs Engineering Group,United States,1330
+2012-01-01,Precision Castparts Corp.,United States,1330
+2012-01-01,Navistar,United States,1330
+2012-01-01,Tactical Missiles Corp.,Russia,750
+2012-01-01,Meggitt,United Kingdom,1050
+2012-01-01,Krauss-Maffei Wegmann,Germany,1050
+2012-01-01,Bharat Electronics,India,1140
+2012-01-01,ASC,Australia,810
+2012-01-01,RUAG,Switzerland,1010
+2012-01-01,Sierra Nevada Corp.,United States,1210
+2012-01-01,Nexter,France,910
+2012-01-01,GKN,United Kingdom,960
+2012-01-01,Patria Group,Finland,910
+2012-01-01,Austal,Australia,750
+2012-01-01,KBR,United States,1170
+2012-01-01,Cubic Corp.,United States,1150
+2012-01-01,ASELSAN,Türkiye,470
+2012-01-01,LIG Nex1,South Korea,890
+2012-01-01,CAE,Canada,800
+2012-01-01,AAR CORP,United States,1110
+2012-01-01,GenCorp,United States,1100
+2012-01-01,Bumar Group,Poland,930
+2012-01-01,Ultra Electronics Group,United Kingdom,870
+2012-01-01,Moog,United States,1090
+2012-01-01,Diehl,Germany,860
+2012-01-01,RTI Group,Russia,610
+2013-01-01,Lockheed Martin Corp.,United States,46290
+2013-01-01,Boeing,United States,40140
+2013-01-01,BAE Systems,United Kingdom,28090
+2013-01-01,Raytheon,United States,28700
+2013-01-01,Northrop Grumman Corp.,United States,26410
+2013-01-01,General Dynamics Corp.,United States,24400
+2013-01-01,EADS,Trans-European,15550
+2013-01-01,United Technologies Corp.,United States,15560
+2013-01-01,Finmeccanica,Italy,10340
+2013-01-01,Thales,France,9930
+2013-01-01,L-3 Communications,United States,13520
+2013-01-01,Almaz-Antey,Russia,6010
+2013-01-01,Huntington Ingalls Industries,United States,8560
+2013-01-01,United Aircraft Corp.,Russia,4100
+2013-01-01,Rolls-Royce,United Kingdom,5820
+2013-01-01,United Shipbuilding Corp.,Russia,3760
+2013-01-01,Honeywell International,United States,6370
+2013-01-01,DCNS,France,4190
+2013-01-01,Textron,United States,5440
+2013-01-01,Booz Allen Hamilton,United States,5360
+2013-01-01,Science Applications International Corp.,United States,5140
+2013-01-01,Leidos,United States,5140
+2013-01-01,General Electric,United States,5030
+2013-01-01,MBDA,Trans-European,3610
+2013-01-01,Mitsubishi Heavy Industries,Japan,2780
+2013-01-01,Exelis,United States,4650
+2013-01-01,Russian Helicopters,Russia,2570
+2013-01-01,Babcock International Group,United Kingdom,3430
+2013-01-01,Oshkosh Corp.,United States,3990
+2013-01-01,CACI International,United States,3960
+2013-01-01,Safran,France,2870
+2013-01-01,Saab,Sweden,2290
+2013-01-01,Rheinmetall,Germany,2910
+2013-01-01,Harris Corp.,United States,3730
+2013-01-01,Elbit Systems,Israel,3090
+2013-01-01,United Engine Corp.,Russia,2000
+2013-01-01,Hewlett-Packard Company,United States,3530
+2013-01-01,Israel Aerospace Industries,Israel,2900
+2013-01-01,Serco Group,United Kingdom,2680
+2013-01-01,Bechtel Corp.,United States,3230
+2013-01-01,Computer Sciences Corp.,United States,3140
+2013-01-01,Rockwell Collins,United States,3140
+2013-01-01,Hindustan Aeronautics,India,2800
+2013-01-01,URS Corp.,United States,3020
+2013-01-01,CEA,France,2170
+2013-01-01,Tactical Missiles Corp.,Russia,1640
+2013-01-01,ManTech International Corp.,United States,2890
+2013-01-01,General Atomics,United States,2840
+2013-01-01,DynCorp International,United States,2810
+2013-01-01,Kawasaki Heavy Industries,Japan,1570
+2013-01-01,ST Engineering,Singapore,2170
+2013-01-01,Rafael,Israel,2190
+2013-01-01,Fluor Corp.,United States,2580
+2013-01-01,Dassault Aviation Group,France,1780
+2013-01-01,KRET,Russia,1360
+2013-01-01,Indian Ordnance Factories,India,2140
+2013-01-01,Cobham,United Kingdom,1910
+2013-01-01,Alliant Techsystems,United States,2380
+2013-01-01,UkrOboronProm,Ukraine,1600
+2013-01-01,ThyssenKrupp,Germany,1800
+2013-01-01,Fincantieri,Italy,1630
+2013-01-01,Korea Aerospace Industries,South Korea,1400
+2013-01-01,IHI Corp.,Japan,1040
+2013-01-01,United Launch Alliance,United States,1660
+2013-01-01,NEC Corp.,Japan,940
+2013-01-01,Embraer,Brazil,940
+2013-01-01,QinetiQ,United Kingdom,1250
+2013-01-01,Mitsubishi Electric Corp.,Japan,910
+2013-01-01,Sierra Nevada Corp.,United States,1500
+2013-01-01,GenCorp,United States,1460
+2013-01-01,ASELSAN,Türkiye,600
+2013-01-01,LIG Nex1,South Korea,1100
+2013-01-01,Kongsberg Gruppen,Norway,810
+2013-01-01,Triumph Group,United States,1370
+2013-01-01,Precision Castparts Corp.,United States,1370
+2013-01-01,Austal,Australia,920
+2013-01-01,Krauss-Maffei Wegmann,Germany,1030
+2013-01-01,Patria Group,Finland,970
+2013-01-01,Nexter,France,950
+2013-01-01,Engility,United States,1290
+2013-01-01,Meggitt,United Kingdom,1010
+2013-01-01,Samsung Techwin,South Korea,960
+2013-01-01,GKN,United Kingdom,1000
+2013-01-01,Volvo Group,Sweden,740
+2013-01-01,UralVagonZavod,Russia,690
+2013-01-01,Hanwha Corp.,South Korea,930
+2013-01-01,Fujitsu,Japan,710
+2013-01-01,Chemring Group,United Kingdom,960
+2013-01-01,Jacobs Engineering Group,United States,1200
+2013-01-01,Sozvezdie,Russia,670
+2013-01-01,Bharat Electronics,India,1050
+2013-01-01,Navantia,Spain,870
+2013-01-01,ASC,Australia,790
+2013-01-01,Moog,United States,1120
+2013-01-01,Cubic Corp.,United States,1100
+2013-01-01,RUAG,Switzerland,900
+2013-01-01,AAR CORP,United States,1090
+2013-01-01,CNH Industrial,Trans-European,810
+2013-01-01,Diehl,Germany,830
+2013-01-01,Motor Sich,Ukraine,730
+2014-01-01,Lockheed Martin Corp.,United States,46940
+2014-01-01,Boeing,United States,36410
+2014-01-01,BAE Systems,United Kingdom,27000
+2014-01-01,Raytheon,United States,27500
+2014-01-01,Northrop Grumman Corp.,United States,25300
+2014-01-01,General Dynamics Corp.,United States,23930
+2014-01-01,Airbus Group,Trans-European,14230
+2014-01-01,United Technologies Corp.,United States,16750
+2014-01-01,Finmeccanica,Italy,10310
+2014-01-01,L-3 Communications,United States,12620
+2014-01-01,Thales,France,8200
+2014-01-01,Huntington Ingalls Industries,United States,8600
+2014-01-01,United Aircraft Corp.,Russia,5030
+2014-01-01,United Shipbuilding Corp.,Russia,4930
+2014-01-01,Rolls-Royce,United Kingdom,5330
+2014-01-01,Almaz-Antey,Russia,4220
+2014-01-01,Honeywell International,United States,6110
+2014-01-01,Textron,United States,5730
+2014-01-01,DCNS,France,3790
+2014-01-01,Mitsubishi Heavy Industries,Japan,3210
+2014-01-01,Booz Allen Hamilton,United States,5020
+2014-01-01,Russian Helicopters,Russia,3200
+2014-01-01,Babcock International Group,United Kingdom,3490
+2014-01-01,Leidos,United States,4360
+2014-01-01,General Electric,United States,4130
+2014-01-01,Science Applications International Corp.,United States,4080
+2014-01-01,MBDA,Trans-European,3060
+2014-01-01,Harris Corp.,United States,4000
+2014-01-01,Safran,France,2960
+2014-01-01,AECOM Technology Corp.,United States,3960
+2014-01-01,Rheinmetall,Germany,3000
+2014-01-01,Israel Aerospace Industries,Israel,3090
+2014-01-01,Tactical Missiles Corp.,Russia,2310
+2014-01-01,Elbit Systems,Israel,3020
+2014-01-01,CACI International,United States,3510
+2014-01-01,Saab,Sweden,2220
+2014-01-01,United Launch Alliance,United States,3240
+2014-01-01,Bechtel Corp.,United States,3190
+2014-01-01,Alliant Techsystems,United States,3010
+2014-01-01,Hindustan Aeronautics,India,2660
+2014-01-01,High Precision Systems,Russia,1910
+2014-01-01,ThyssenKrupp,Germany,2330
+2014-01-01,Hewlett-Packard Company,United States,2960
+2014-01-01,United Instrument Manufacturing Corp.,Russia,1880
+2014-01-01,CEA,France,2180
+2014-01-01,KRET,Russia,1840
+2014-01-01,United Engine Corp.,Russia,1840
+2014-01-01,Rockwell Collins,United States,2870
+2014-01-01,Exelis,United States,2870
+2014-01-01,Computer Sciences Corp.,United States,2870
+2014-01-01,Serco Group,United Kingdom,2140
+2014-01-01,Kawasaki Heavy Industries,Japan,1700
+2014-01-01,General Atomics,United States,2650
+2014-01-01,ST Engineering,Singapore,2180
+2014-01-01,Rafael,Israel,2150
+2014-01-01,Cobham,United Kingdom,1820
+2014-01-01,Indian Ordnance Factories,India,2060
+2014-01-01,Oshkosh Corp.,United States,2230
+2014-01-01,ManTech International Corp.,United States,2170
+2014-01-01,Fincantieri,Italy,1560
+2014-01-01,Fluor Corp.,United States,1930
+2014-01-01,PGZ,Poland,1590
+2014-01-01,Embraer,Brazil,1160
+2014-01-01,UralVagonZavod,Russia,1190
+2014-01-01,LIG Nex1,South Korea,1270
+2014-01-01,Nexter,France,1260
+2014-01-01,Dassault Aviation Group,France,1260
+2014-01-01,DynCorp International,United States,1670
+2014-01-01,Austal,Australia,1160
+2014-01-01,The Babcock & Wilcox Companies,United States,1540
+2014-01-01,GenCorp,United States,1520
+2014-01-01,IHI Corp.,Japan,970
+2014-01-01,Vectrus,United States,1510
+2014-01-01,Korea Aerospace Industries,South Korea,1110
+2014-01-01,Jacobs Engineering Group,United States,1470
+2014-01-01,ASELSAN,Türkiye,640
+2014-01-01,Sierra Nevada Corp.,United States,1420
+2014-01-01,Mitsubishi Electric Corp.,Japan,850
+2014-01-01,Samsung Techwin,South Korea,980
+2014-01-01,Triumph Group,United States,1300
+2014-01-01,Precision Castparts Corp.,United States,1290
+2014-01-01,QinetiQ,United Kingdom,970
+2014-01-01,GKN,United Kingdom,970
+2014-01-01,Pilatus Aircraft,Switzerland,1030
+2014-01-01,NEC Corp.,Japan,790
+2014-01-01,Bharat Electronics,India,1090
+2014-01-01,Hanwha Corp.,South Korea,910
+2014-01-01,Krauss-Maffei Wegmann,Germany,950
+2014-01-01,Engility,United States,1200
+2014-01-01,ASC,Australia,860
+2014-01-01,Kongsberg Gruppen,Norway,730
+2014-01-01,Meggitt,United Kingdom,870
+2014-01-01,Fujitsu,Japan,730
+2014-01-01,Moog,United States,1110
+2014-01-01,Turkish Aerospace Industries,Türkiye,480
+2014-01-01,UkrOboronProm,Ukraine,1000
+2014-01-01,RTI Group,Russia,690
+2014-01-01,RUAG,Switzerland,900
+2014-01-01,CNH Industrial,Trans-European,810
+2014-01-01,Cubic Corp.,United States,1030
+2015-01-01,Lockheed Martin Corp.,United States,46830
+2015-01-01,Boeing,United States,35930
+2015-01-01,BAE Systems,United Kingdom,29150
+2015-01-01,Raytheon,United States,27990
+2015-01-01,Northrop Grumman Corp.,United States,25780
+2015-01-01,General Dynamics Corp.,United States,24730
+2015-01-01,NORINCO,China,17210
+2015-01-01,AVIC,China,15360
+2015-01-01,Rostec,Russia,14810
+2015-01-01,Airbus Group,Trans-European,15060
+2015-01-01,CASC,China,12550
+2015-01-01,CETC,China,12210
+2015-01-01,United Technologies Corp.,United States,12210
+2015-01-01,Finmeccanica,Italy,10880
+2015-01-01,CSGC,China,9240
+2015-01-01,L-3 Communications,United States,11270
+2015-01-01,Thales,France,9230
+2015-01-01,Almaz-Antey,Russia,8340
+2015-01-01,Huntington Ingalls Industries,United States,8660
+2015-01-01,CSSC,China,6200
+2015-01-01,CSIC,China,5410
+2015-01-01,Rolls-Royce,United Kingdom,5510
+2015-01-01,Harris Corp.,United States,6320
+2015-01-01,United Shipbuilding Corp.,Russia,4680
+2015-01-01,Booz Allen Hamilton,United States,5010
+2015-01-01,Textron,United States,4690
+2015-01-01,Mitsubishi Heavy Industries,Japan,3220
+2015-01-01,Babcock International Group,United Kingdom,3580
+2015-01-01,Honeywell International,United States,4340
+2015-01-01,DCNS,France,3800
+2015-01-01,Leidos,United States,4230
+2015-01-01,MBDA,Trans-European,3700
+2015-01-01,General Electric,United States,3840
+2015-01-01,Rheinmetall,Germany,3450
+2015-01-01,Science Applications International Corp.,United States,3660
+2015-01-01,Elbit Systems,Israel,3290
+2015-01-01,Israel Aerospace Industries,Israel,3260
+2015-01-01,Bechtel Corp.,United States,3410
+2015-01-01,Saab,Sweden,2650
+2015-01-01,Sandia National Laboratories,United States,3150
+2015-01-01,CACI International,United States,3140
+2015-01-01,Tactical Missiles Corp.,Russia,2700
+2015-01-01,Safran,France,2710
+2015-01-01,Hindustan Aeronautics,India,2690
+2015-01-01,Rockwell Collins,United States,2850
+2015-01-01,Indian Ordnance Factories,India,2500
+2015-01-01,AECOM,United States,2760
+2015-01-01,CSRA,United States,2660
+2015-01-01,Fluor Corp.,United States,2630
+2015-01-01,General Atomics,United States,2600
+2015-01-01,Hewlett-Packard Company,United States,2570
+2015-01-01,Rafael,Israel,2320
+2015-01-01,Cobham,United Kingdom,2060
+2015-01-01,CEA,France,2220
+2015-01-01,ThyssenKrupp,Germany,2270
+2015-01-01,Kawasaki Heavy Industries,Japan,1740
+2015-01-01,Dassault Aviation Group,France,2110
+2015-01-01,United Launch Alliance,United States,2220
+2015-01-01,LIG Nex1,South Korea,1710
+2015-01-01,ST Engineering,Singapore,1960
+2015-01-01,Korea Aerospace Industries,South Korea,1680
+2015-01-01,Serco Group,United Kingdom,1720
+2015-01-01,Orbital ATK,United States,2090
+2015-01-01,Fincantieri,Italy,1750
+2015-01-01,ManTech International Corp.,United States,1820
+2015-01-01,Engility,United States,1670
+2015-01-01,IHI Corp.,Japan,1180
+2015-01-01,Aerojet Rocketdyne,United States,1570
+2015-01-01,PGZ,Poland,1560
+2015-01-01,Vectrus,United States,1520
+2015-01-01,Jacobs Engineering Group,United States,1480
+2015-01-01,BWX Technologies,United States,1480
+2015-01-01,Nexter,France,1290
+2015-01-01,Hanwha Techwin,South Korea,1100
+2015-01-01,Krauss-Maffei Wegmann,Germany,1240
+2015-01-01,Sierra Nevada Corp.,United States,1300
+2015-01-01,DSME,South Korea,1020
+2015-01-01,ASELSAN,Türkiye,650
+2015-01-01,DynCorp International,United States,1270
+2015-01-01,Austal,Australia,1080
+2015-01-01,Bharat Electronics,India,1100
+2015-01-01,GKN,United Kingdom,1000
+2015-01-01,Oshkosh Corp.,United States,1210
+2015-01-01,Pacific Architects and Engineers,United States,1210
+2015-01-01,QinetiQ,United Kingdom,960
+2015-01-01,Triumph Group,United States,1140
+2015-01-01,Turkish Aerospace Industries,Türkiye,580
+2015-01-01,Moog,United States,1130
+2015-01-01,Pilatus Aircraft,Switzerland,990
+2015-01-01,Meggitt,United Kingdom,920
+2015-01-01,UkrOboronProm,Ukraine,1280
+2015-01-01,Cubic Corp.,United States,1110
+2015-01-01,Vencore,United States,1090
+2015-01-01,Precision Castparts Corp.,United States,1080
+2015-01-01,Fujitsu,Japan,770
+2015-01-01,The Aerospace Corp.,United States,1070
+2015-01-01,Mitsubishi Electric Corp.,Japan,760
+2015-01-01,RUAG,Switzerland,930
+2015-01-01,Embraer,Brazil,830
+2015-01-01,Curtiss-Wright Corp.,United States,1020
+2016-01-01,Lockheed Martin Corp.,United States,51570
+2016-01-01,Boeing,United States,37450
+2016-01-01,BAE Systems,United Kingdom,28510
+2016-01-01,Raytheon,United States,29080
+2016-01-01,Northrop Grumman Corp.,United States,27160
+2016-01-01,General Dynamics Corp.,United States,24370
+2016-01-01,NORINCO,China,18450
+2016-01-01,AVIC,China,15230
+2016-01-01,Rostec,Russia,15350
+2016-01-01,CASC,China,13650
+2016-01-01,Airbus Group,Trans-European,14660
+2016-01-01,CETC,China,11690
+2016-01-01,CASIC,China,10110
+2016-01-01,Leonardo,Italy,9980
+2016-01-01,Thales,France,9320
+2016-01-01,CSGC,China,8610
+2016-01-01,L3 Technologies,United States,9680
+2016-01-01,United Technologies Corp.,United States,8720
+2016-01-01,Huntington Ingalls Industries,United States,8530
+2016-01-01,CSIC,China,6570
+2016-01-01,Almaz-Antey,Russia,7100
+2016-01-01,CSSC,China,6360
+2016-01-01,Rolls-Royce,United Kingdom,5760
+2016-01-01,Textron,United States,6040
+2016-01-01,Leidos,United States,5460
+2016-01-01,Harris Corp.,United States,5330
+2016-01-01,United Shipbuilding Corp.,Russia,4720
+2016-01-01,Booz Allen Hamilton,United States,5080
+2016-01-01,Mitsubishi Heavy Industries,Japan,3070
+2016-01-01,General Electric,United States,4560
+2016-01-01,Honeywell International,United States,4420
+2016-01-01,DCNS,France,3970
+2016-01-01,Babcock International Group,United Kingdom,3990
+2016-01-01,Rheinmetall,Germany,3910
+2016-01-01,MBDA,Trans-European,3790
+2016-01-01,Elbit Systems,Israel,3420
+2016-01-01,CACI International,United States,3590
+2016-01-01,Bechtel Corp.,United States,3580
+2016-01-01,Saab,Sweden,2800
+2016-01-01,Hindustan Aeronautics,India,3170
+2016-01-01,AECC,China,2820
+2016-01-01,Science Applications International Corp.,United States,3340
+2016-01-01,Israel Aerospace Industries,Israel,3040
+2016-01-01,Sandia National Laboratories,United States,3300
+2016-01-01,Safran,France,2970
+2016-01-01,Tactical Missiles Corp.,Russia,2940
+2016-01-01,Indian Ordnance Factories,India,2610
+2016-01-01,CSRA,United States,2860
+2016-01-01,Hanwha Techwin,South Korea,2320
+2016-01-01,Rockwell Collins,United States,2830
+2016-01-01,Kawasaki Heavy Industries,Japan,1810
+2016-01-01,AECOM,United States,2690
+2016-01-01,CEA,France,2300
+2016-01-01,Rafael,Israel,2320
+2016-01-01,Orbital ATK,United States,2440
+2016-01-01,General Atomics,United States,2420
+2016-01-01,Fluor Corp.,United States,2410
+2016-01-01,ThyssenKrupp,Germany,2120
+2016-01-01,Korea Aerospace Industries,South Korea,1820
+2016-01-01,ST Engineering,Singapore,2020
+2016-01-01,Krauss-Maffei Wegmann,Germany,1920
+2016-01-01,Fincantieri,Italy,1880
+2016-01-01,LIG Nex1,South Korea,1650
+2016-01-01,Cobham,United Kingdom,1830
+2016-01-01,Serco Group,United Kingdom,1770
+2016-01-01,United Launch Alliance,United States,1870
+2016-01-01,ManTech International Corp.,United States,1850
+2016-01-01,Dassault Aviation Group,France,1570
+2016-01-01,IHI Corp.,Japan,1140
+2016-01-01,Oshkosh Corp.,United States,1710
+2016-01-01,Engility,United States,1710
+2016-01-01,DynCorp International,United States,1620
+2016-01-01,BWX Technologies,United States,1590
+2016-01-01,GKN,United Kingdom,1430
+2016-01-01,ASELSAN,Türkiye,810
+2016-01-01,Hewlett Packard Enterprise Company,United States,1520
+2016-01-01,Vectrus,United States,1510
+2016-01-01,DSME,South Korea,1230
+2016-01-01,Aerojet Rocketdyne,United States,1500
+2016-01-01,Bharat Electronics,India,1330
+2016-01-01,Fujitsu,Japan,960
+2016-01-01,Pacific Architects and Engineers,United States,1460
+2016-01-01,PGZ,Poland,1570
+2016-01-01,Turkish Aerospace Industries,Türkiye,760
+2016-01-01,KBR,United States,1380
+2016-01-01,UkrOboronProm,Ukraine,1600
+2016-01-01,Jacobs Engineering Group,United States,1260
+2016-01-01,TransDigm Group,United States,1210
+2016-01-01,Austal,Australia,1040
+2016-01-01,Meggitt,United Kingdom,1110
+2016-01-01,Embraer,Brazil,920
+2016-01-01,Nexter,France,1040
+2016-01-01,Sierra Nevada Corp.,United States,1140
+2016-01-01,Precision Castparts Corp.,United States,1120
+2016-01-01,Cubic Corp.,United States,1120
+2016-01-01,The Aerospace Corp.,United States,1100
+2016-01-01,Vencore,United States,1090
+2016-01-01,Mitsubishi Electric Corp.,Japan,690
+2016-01-01,Moog,United States,1050
+2016-01-01,QinetiQ,United Kingdom,970
+2017-01-01,Lockheed Martin Corp.,United States,54530
+2017-01-01,Boeing,United States,36600
+2017-01-01,Northrop Grumman Corp.,United States,27800
+2017-01-01,BAE Systems,United Kingdom,26980
+2017-01-01,Raytheon,United States,27390
+2017-01-01,General Dynamics Corp.,United States,25840
+2017-01-01,Rostec,Russia,18910
+2017-01-01,NORINCO,China,18340
+2017-01-01,AVIC,China,15970
+2017-01-01,CASC,China,14090
+2017-01-01,CETC,China,12990
+2017-01-01,CASIC,China,11240
+2017-01-01,Airbus Group,Trans-European,11370
+2017-01-01,Thales,France,9970
+2017-01-01,Leonardo,Italy,10080
+2017-01-01,Almaz-Antey,Russia,8350
+2017-01-01,United Technologies Corp.,United States,9670
+2017-01-01,L3 Technologies,United States,9630
+2017-01-01,Huntington Ingalls Industries,United States,8040
+2017-01-01,CSIC,China,6580
+2017-01-01,Rolls-Royce,United Kingdom,6120
+2017-01-01,United Shipbuilding Corp.,Russia,4850
+2017-01-01,CSGC,China,4940
+2017-01-01,CSSC,China,4820
+2017-01-01,Honeywell International,United States,5540
+2017-01-01,Harris Corp.,United States,5530
+2017-01-01,Leidos,United States,5440
+2017-01-01,Booz Allen Hamilton,United States,5370
+2017-01-01,Naval Group,France,4580
+2017-01-01,Textron,United States,5100
+2017-01-01,General Electric,United States,4960
+2017-01-01,Tactical Missiles Corp.,Russia,3510
+2017-01-01,Mitsubishi Heavy Industries,Japan,3060
+2017-01-01,Rheinmetall,Germany,3970
+2017-01-01,MBDA,Trans-European,3850
+2017-01-01,Babcock International Group,United Kingdom,3910
+2017-01-01,Bechtel Corp.,United States,3910
+2017-01-01,Saab,Sweden,3060
+2017-01-01,Elbit Systems,Israel,3330
+2017-01-01,CACI International,United States,3700
+2017-01-01,Safran,France,3230
+2017-01-01,Hindustan Aeronautics,India,3030
+2017-01-01,AECC,China,2990
+2017-01-01,Science Applications International Corp.,United States,3430
+2017-01-01,Sandia National Laboratories,United States,3370
+2017-01-01,CSRA,United States,3210
+2017-01-01,Israel Aerospace Industries,Israel,2690
+2017-01-01,Orbital ATK,United States,2970
+2017-01-01,Rockwell Collins,United States,2860
+2017-01-01,Indian Ordnance Factories,India,2430
+2017-01-01,General Atomics,United States,2760
+2017-01-01,Rafael,Israel,2410
+2017-01-01,CEA,France,2400
+2017-01-01,Kawasaki Heavy Industries,Japan,1830
+2017-01-01,Hanwha Techwin,South Korea,2100
+2017-01-01,Dassault Aviation Group,France,2340
+2017-01-01,AECOM,United States,2570
+2017-01-01,Fluor Corp.,United States,2570
+2017-01-01,United Launch Alliance,United States,2420
+2017-01-01,ThyssenKrupp,Germany,2230
+2017-01-01,Oshkosh Corp.,United States,2290
+2017-01-01,KBR,United States,2170
+2017-01-01,ST Engineering,Singapore,1990
+2017-01-01,Krauss-Maffei Wegmann,Germany,1920
+2017-01-01,Fincantieri,Italy,1890
+2017-01-01,Cobham,United Kingdom,1910
+2017-01-01,LIG Nex1,South Korea,1540
+2017-01-01,IHI Corp.,Japan,1260
+2017-01-01,ASELSAN,Türkiye,1040
+2017-01-01,DynCorp International,United States,1760
+2017-01-01,GKN,United Kingdom,1710
+2017-01-01,ManTech International Corp.,United States,1690
+2017-01-01,Bharat Electronics,India,1410
+2017-01-01,BWX Technologies,United States,1620
+2017-01-01,Engility,United States,1620
+2017-01-01,Serco Group,United Kingdom,1510
+2017-01-01,Turkish Aerospace Industries,Türkiye,900
+2017-01-01,Aerojet Rocketdyne,United States,1520
+2017-01-01,TransDigm Group,United States,1480
+2017-01-01,PGZ,Poland,1550
+2017-01-01,Vencore,United States,1400
+2017-01-01,Pacific Architects and Engineers,United States,1400
+2017-01-01,Hensoldt,Germany,1310
+2017-01-01,Fujitsu,Japan,960
+2017-01-01,Vectrus,United States,1390
+2017-01-01,Austal,Australia,1080
+2017-01-01,Sierra Nevada Corp.,United States,1270
+2017-01-01,UkrOboronProm,Ukraine,1400
+2017-01-01,DXC,United States,1240
+2017-01-01,Nexter,France,1070
+2017-01-01,Embraer,Brazil,830
+2017-01-01,Precision Castparts Corp.,United States,1180
+2017-01-01,DSME,South Korea,930
+2017-01-01,Jacobs Engineering Group,United States,1120
+2017-01-01,The Aerospace Corp.,United States,1110
+2017-01-01,Curtiss-Wright Corp.,United States,1110
+2017-01-01,Meggitt,United Kingdom,1070
+2017-01-01,Teledyne Technologies,United States,1090
+2017-01-01,RUAG,Switzerland,1010
+2017-01-01,Moog,United States,1070
+2018-01-01,Lockheed Martin Corp.,United States,57330
+2018-01-01,Boeing,United States,38960
+2018-01-01,Northrop Grumman Corp.,United States,31770
+2018-01-01,General Dynamics Corp.,United States,29570
+2018-01-01,Raytheon,United States,28430
+2018-01-01,BAE Systems,United Kingdom,25720
+2018-01-01,Rostec,Russia,18680
+2018-01-01,AVIC,China,16950
+2018-01-01,NORINCO,China,15210
+2018-01-01,CASC,China,14240
+2018-01-01,CETC,China,14170
+2018-01-01,CASIC,China,12030
+2018-01-01,Airbus,Trans-European,12400
+2018-01-01,Leonardo,Italy,10550
+2018-01-01,Almaz-Antey,Russia,9820
+2018-01-01,Thales,France,9810
+2018-01-01,United Technologies Corp.,United States,11290
+2018-01-01,L3 Technologies,United States,10010
+2018-01-01,Huntington Ingalls Industries,United States,8730
+2018-01-01,CSIC,China,7070
+2018-01-01,Rolls-Royce,United Kingdom,6270
+2018-01-01,Honeywell International,United States,6590
+2018-01-01,Leidos,United States,6070
+2018-01-01,Harris Corp.,United States,6030
+2018-01-01,United Shipbuilding Corp.,Russia,4790
+2018-01-01,Booz Allen Hamilton,United States,5680
+2018-01-01,Naval Group,France,4380
+2018-01-01,CSGC,China,4300
+2018-01-01,General Electric,United States,4970
+2018-01-01,Rheinmetall,Germany,4140
+2018-01-01,MBDA,Trans-European,4020
+2018-01-01,Mitsubishi Heavy Industries,Japan,3020
+2018-01-01,Tactical Missiles Corp.,Russia,3650
+2018-01-01,Textron,United States,4250
+2018-01-01,CACI International,United States,4230
+2018-01-01,CSSC,China,3540
+2018-01-01,Elbit Systems,Israel,3580
+2018-01-01,Saab,Sweden,3200
+2018-01-01,Safran,France,3370
+2018-01-01,Sandia National Laboratories,United States,3880
+2018-01-01,Babcock International Group,United Kingdom,3620
+2018-01-01,AECC,China,3050
+2018-01-01,Dassault Aviation Group,France,3040
+2018-01-01,Hindustan Aeronautics,India,3070
+2018-01-01,Science Applications International Corp.,United States,3400
+2018-01-01,AECOM,United States,3360
+2018-01-01,General Atomics,United States,3340
+2018-01-01,Israel Aerospace Industries,Israel,2860
+2018-01-01,Rockwell Collins,United States,3190
+2018-01-01,KBR,United States,3150
+2018-01-01,Perspecta,United States,3140
+2018-01-01,Rafael,Israel,2740
+2018-01-01,Fluor Corp.,United States,2900
+2018-01-01,Hanwha Aerospace,South Korea,2200
+2018-01-01,CEA,France,2390
+2018-01-01,Kawasaki Heavy Industries,Japan,1890
+2018-01-01,Bechtel Corp.,United States,2430
+2018-01-01,Fincantieri,Italy,2040
+2018-01-01,Oshkosh Corp.,United States,2240
+2018-01-01,ASELSAN,Türkiye,1450
+2018-01-01,Indian Ordnance Factories,India,1790
+2018-01-01,ThyssenKrupp,Germany,1800
+2018-01-01,Korea Aerospace Industries,South Korea,1530
+2018-01-01,Cobham,United Kingdom,1810
+2018-01-01,DynCorp International,United States,1890
+2018-01-01,ST Engineering,Singapore,1780
+2018-01-01,Parker-Hannifin Corp,United States,1780
+2018-01-01,Krauss-Maffei Wegmann,Germany,1570
+2018-01-01,ManTech International Corp.,United States,1730
+2018-01-01,Jacobs Engineering Group,United States,1660
+2018-01-01,LIG Nex1,South Korea,1270
+2018-01-01,TransDigm Group,United States,1610
+2018-01-01,Melrose Industries,United Kingdom,1500
+2018-01-01,United Launch Alliance,United States,1600
+2018-01-01,UkrOboronProm,Ukraine,1650
+2018-01-01,Fujitsu,Japan,1060
+2018-01-01,Serco Group,United Kingdom,1430
+2018-01-01,PGZ,Poland,1520
+2018-01-01,Vectrus,United States,1490
+2018-01-01,Aerojet Rocketdyne,United States,1480
+2018-01-01,Hensoldt,Germany,1310
+2018-01-01,Bharat Electronics,India,1270
+2018-01-01,Austal,Australia,1200
+2018-01-01,Sierra Nevada Corp.,United States,1330
+2018-01-01,Nexter,France,1120
+2018-01-01,Turkish Aerospace Industries,Türkiye,890
+2018-01-01,Engility,United States,1300
+2018-01-01,BWX Technologies,United States,1300
+2018-01-01,IHI Corp.,Japan,870
+2018-01-01,NCSIST,Taiwan,1060
+2018-01-01,Precision Castparts Corp.,United States,1240
+2018-01-01,CAE,Canada,1140
+2018-01-01,Pacific Architects and Engineers,United States,1200
+2018-01-01,Parsons Corp.,United States,1200
+2018-01-01,Meggitt,United Kingdom,1100
+2018-01-01,Curtiss-Wright Corp.,United States,1180
+2018-01-01,The Aerospace Corp.,United States,1180
+2018-01-01,Moog,United States,1120
+2018-01-01,Navantia,Spain,970
+2018-01-01,QinetiQ,United Kingdom,1040
+2019-01-01,Lockheed Martin Corp.,United States,63420
+2019-01-01,Boeing,United States,38660
+2019-01-01,Northrop Grumman Corp.,United States,34810
+2019-01-01,General Dynamics Corp.,United States,31650
+2019-01-01,Raytheon,United States,30170
+2019-01-01,BAE Systems,United Kingdom,27310
+2019-01-01,Rostec,Russia,18970
+2019-01-01,AVIC,China,17330
+2019-01-01,NORINCO,China,16160
+2019-01-01,CETC,China,15650
+2019-01-01,L3Harris Technologies,United States,16590
+2019-01-01,United Technologies Corp.,United States,15610
+2019-01-01,CASC,China,13410
+2019-01-01,CASIC,China,12290
+2019-01-01,Airbus,Trans-European,12510
+2019-01-01,Leonardo,Italy,12510
+2019-01-01,Almaz-Antey,Russia,9470
+2019-01-01,Thales,France,10170
+2019-01-01,Huntington Ingalls Industries,United States,9220
+2019-01-01,Leidos,United States,7510
+2019-01-01,CSIC - MERGED!,China,6420
+2019-01-01,Dassault Aviation Group,France,6240
+2019-01-01,Rolls-Royce,United Kingdom,6470
+2019-01-01,Honeywell International,United States,6350
+2019-01-01,Booz Allen Hamilton,United States,6120
+2019-01-01,EDGE,United Arab Emirates,5200
+2019-01-01,CSGC,China,4780
+2019-01-01,United Shipbuilding Corp.,Russia,4530
+2019-01-01,General Electric,United States,5230
+2019-01-01,Naval Group,France,4450
+2019-01-01,MBDA,Trans-European,4540
+2019-01-01,Elbit Systems,Israel,4310
+2019-01-01,CACI International,United States,4770
+2019-01-01,Rheinmetall,Germany,4460
+2019-01-01,Mitsubishi Heavy Industries,Japan,3210
+2019-01-01,Safran,France,3850
+2019-01-01,Tactical Missiles Corp.,Russia,3500
+2019-01-01,Sandia National Laboratories,United States,3980
+2019-01-01,Science Applications International Corp.,United States,3960
+2019-01-01,Textron,United States,3940
+2019-01-01,CSSC - MERGED!,China,3430
+2019-01-01,Babcock International Group,United Kingdom,3790
+2019-01-01,AECC,China,3310
+2019-01-01,Saab,Sweden,3370
+2019-01-01,KBR,United States,3790
+2019-01-01,Perspecta,United States,3710
+2019-01-01,AECOM,United States,3680
+2019-01-01,Israel Aerospace Industries,Israel,3270
+2019-01-01,Hindustan Aeronautics,India,3150
+2019-01-01,General Atomics,United States,3430
+2019-01-01,Hanwha Aerospace,South Korea,2730
+2019-01-01,Bechtel Corp.,United States,3180
+2019-01-01,Rafael,Israel,2830
+2019-01-01,Kawasaki Heavy Industries,Japan,1940
+2019-01-01,CEA,France,2420
+2019-01-01,ASELSAN,Türkiye,1850
+2019-01-01,Fincantieri,Italy,2400
+2019-01-01,Oshkosh Corp.,United States,2420
+2019-01-01,ThyssenKrupp,Germany,2290
+2019-01-01,TransDigm Group,United States,2300
+2019-01-01,Indian Ordnance Factories,India,2040
+2019-01-01,Fluor Corp.,United States,2160
+2019-01-01,Cobham,United Kingdom,2110
+2019-01-01,ManTech International Corp.,United States,2040
+2019-01-01,ST Engineering,Singapore,1960
+2019-01-01,Jacobs Engineering Group,United States,2000
+2019-01-01,PGZ,Poland,2100
+2019-01-01,Sierra Nevada Corp.,United States,1890
+2019-01-01,Parker-Hannifin Corp.,United States,1800
+2019-01-01,Korea Aerospace Industries,South Korea,1500
+2019-01-01,Serco Group,United Kingdom,1740
+2019-01-01,Krauss-Maffei Wegmann,Germany,1690
+2019-01-01,BWX Technologies,United States,1760
+2019-01-01,Bharat Electronics,India,1580
+2019-01-01,United Launch Alliance,United States,1700
+2019-01-01,NCSIST,Taiwan,1470
+2019-01-01,Parsons Corp.,United States,1610
+2019-01-01,Turkish Aerospace Industries,Türkiye,1130
+2019-01-01,Vectrus,United States,1570
+2019-01-01,UkrOboronProm,Ukraine,1460
+2019-01-01,DynCorp International,United States,1530
+2019-01-01,LIG Nex1,South Korea,1250
+2019-01-01,Aerojet Rocketdyne,United States,1470
+2019-01-01,Nexter,France,1270
+2019-01-01,Austal,Australia,1290
+2019-01-01,Hensoldt,Germany,1300
+2019-01-01,Moog,United States,1300
+2019-01-01,Pacific Architects and Engineers,United States,1290
+2019-01-01,Curtiss-Wright Corp.,United States,1290
+2019-01-01,Meggitt,United Kingdom,1230
+2019-01-01,Fujitsu,Japan,860
+2019-01-01,Precision Castparts Corp.,United States,1230
+2019-01-01,Melrose Industries,United Kingdom,1210
+2019-01-01,QinetiQ,United Kingdom,1210
+2019-01-01,ViaSat,United States,1220
+2019-01-01,Hyundai Heavy Industries,South Korea,1010
+2019-01-01,CAE,Canada,1130
+2019-01-01,Hanwha Corp.,South Korea,990
+2019-01-01,Amphenol Corp.,United States,1180
+2019-01-01,Keysight Technologies,United States,1170
+2020-01-01,Lockheed Martin Corp.,United States,68510
+2020-01-01,Raytheon Technologies,United States,43290
+2020-01-01,Boeing,United States,38530
+2020-01-01,Northrop Grumman Corp.,United States,35800
+2020-01-01,General Dynamics Corp.,United States,31720
+2020-01-01,BAE Systems,United Kingdom,29020
+2020-01-01,NORINCO,China,18140
+2020-01-01,Rostec,Russia,18660
+2020-01-01,AVIC,China,17180
+2020-01-01,CETC,China,14780
+2020-01-01,L3Harris Technologies,United States,16700
+2020-01-01,CASC,China,13440
+2020-01-01,Airbus,Trans-European,13000
+2020-01-01,CASIC,China,12010
+2020-01-01,Leonardo,Italy,12360
+2020-01-01,CSSC,China,9480
+2020-01-01,Thales,France,9580
+2020-01-01,Huntington Ingalls Industries,United States,9700
+2020-01-01,Leidos,United States,8640
+2020-01-01,Almaz-Antey,Russia,6570
+2020-01-01,Honeywell International,United States,6810
+2020-01-01,Booz Allen Hamilton,United States,6470
+2020-01-01,Rolls-Royce,United Kingdom,6200
+2020-01-01,CSGC,China,5420
+2020-01-01,EDGE,United Arab Emirates,5290
+2020-01-01,General Electric,United States,5380
+2020-01-01,Safran,France,4780
+2020-01-01,Mitsubishi Heavy Industries,Japan,3550
+2020-01-01,Rheinmetall,Germany,4710
+2020-01-01,Elbit Systems,Israel,4370
+2020-01-01,CACI International,United States,4930
+2020-01-01,MBDA,Trans-European,4390
+2020-01-01,AECC,China,3830
+2020-01-01,Naval Group,France,3970
+2020-01-01,Dassault Aviation Group,France,3940
+2020-01-01,United Shipbuilding Corp.,Russia,4020
+2020-01-01,Textron,United States,4150
+2020-01-01,Israel Aerospace Industries,Israel,3620
+2020-01-01,Sandia National Laboratories,United States,4040
+2020-01-01,Saab,Sweden,3470
+2020-01-01,Science Applications International Corp.,United States,3910
+2020-01-01,Tactical Missiles Corp.,Russia,3530
+2020-01-01,Perspecta,United States,3720
+2020-01-01,Amentum,United States,3640
+2020-01-01,KBR,United States,3640
+2020-01-01,Hindustan Aeronautics,India,3150
+2020-01-01,Babcock International Group,United Kingdom,3290
+2020-01-01,Hanwha Aerospace,South Korea,2830
+2020-01-01,General Atomics,United States,3250
+2020-01-01,Rafael,Israel,2770
+2020-01-01,CEA,France,2670
+2020-01-01,Kawasaki Heavy Industries,Japan,1960
+2020-01-01,Oshkosh Corp.,United States,2660
+2020-01-01,ASELSAN,Türkiye,2060
+2020-01-01,TransDigm Group,United States,2580
+2020-01-01,Bechtel Corp.,United States,2550
+2020-01-01,Fincantieri,Italy,2270
+2020-01-01,ThyssenKrupp,Germany,2230
+2020-01-01,Jacobs Engineering Group,United States,2340
+2020-01-01,ManTech International Corp.,United States,2280
+2020-01-01,Sierra Nevada Corp.,United States,2260
+2020-01-01,Indian Ordnance Factories,India,2010
+2020-01-01,ST Engineering,Singapore,2220
+2020-01-01,Parker-Hannifin Corp.,United States,2170
+2020-01-01,Korea Aerospace Industries,South Korea,1810
+2020-01-01,Serco Group,United Kingdom,1990
+2020-01-01,Fluor Corp.,United States,2000
+2020-01-01,NCSIST,Taiwan,1710
+2020-01-01,BWX Technologies,United States,1970
+2020-01-01,Cobham,United Kingdom,1900
+2020-01-01,DynCorp International,United States,1850
+2020-01-01,Melrose Industries,United Kingdom,1700
+2020-01-01,CNNC,China,1490
+2020-01-01,Bharat Electronics,India,1550
+2020-01-01,Krauss-Maffei Wegmann,Germany,1570
+2020-01-01,Parsons Corp.,United States,1620
+2020-01-01,PGZ,Poland,1700
+2020-01-01,LIG Nex1,South Korea,1370
+2020-01-01,Vectrus,United States,1570
+2020-01-01,Aerojet Rocketdyne,United States,1570
+2020-01-01,Fujitsu,Japan,1060
+2020-01-01,UkrOboronProm,Ukraine,1500
+2020-01-01,Hensoldt,Germany,1410
+2020-01-01,Curtiss-Wright Corp.,United States,1480
+2020-01-01,QinetiQ,United Kingdom,1430
+2020-01-01,Moog,United States,1410
+2020-01-01,Nexter,France,1260
+2020-01-01,Hanwha Corp.,South Korea,1180
+2020-01-01,Pacific Architects and Engineers,United States,1280
+2020-01-01,Ball Corp.,United States,1270
+2020-01-01,Teledyne Technologies,United States,1240
+2020-01-01,Amphenol Corp.,United States,1210
+2020-01-01,United Launch Alliance,United States,1200
+2020-01-01,Howmet Aerospace,United States,1200
+2020-01-01,The Aerospace Corp.,United States,1180
+2020-01-01,Meggitt,United Kingdom,1130
+2020-01-01,ViaSat,United States,1130
+2020-01-01,Keysight Technologies,United States,1090
+2020-01-01,Austal,Australia,1030
+2020-01-01,Mitsubishi Electric Corp.,Japan,740
+2021-01-01,Lockheed Martin Corp.,United States,67830
+2021-01-01,Raytheon Technologies,United States,47050
+2021-01-01,Boeing,United States,37570
+2021-01-01,Northrop Grumman Corp.,United States,33590
+2021-01-01,General Dynamics Corp.,United States,30970
+2021-01-01,BAE Systems,United Kingdom,28820
+2021-01-01,NORINCO,China,20200
+2021-01-01,AVIC,China,18840
+2021-01-01,Rostec,Russia,16150
+2021-01-01,CETC,China,14040
+2021-01-01,CASC,China,13360
+2021-01-01,Leonardo,Italy,14530
+2021-01-01,L3Harris Technologies,United States,15020
+2021-01-01,CASIC,China,12050
+2021-01-01,CSSC,China,10180
+2021-01-01,Airbus,Trans-European,11080
+2021-01-01,Thales,France,9810
+2021-01-01,HII,United States,9630
+2021-01-01,Leidos,United States,9030
+2021-01-01,Dassault Aviation Group,France,6280
+2021-01-01,CSGC,China,5540
+2021-01-01,Rolls-Royce,United Kingdom,5920
+2021-01-01,Booz Allen Hamilton,United States,6300
+2021-01-01,Honeywell International,United States,5790
+2021-01-01,Safran,France,5070
+2021-01-01,Amentum,United States,5640
+2021-01-01,MBDA,Trans-European,5070
+2021-01-01,AECC,China,4630
+2021-01-01,Peraton,United States,5430
+2021-01-01,Elbit Systems,Israel,4520
+2021-01-01,Naval Group,France,4760
+2021-01-01,Rheinmetall,Germany,4620
+2021-01-01,CACI International,United States,4870
+2021-01-01,General Electric,United States,4650
+2021-01-01,Saab,Sweden,3820
+2021-01-01,Mitsubishi Heavy Industries,Japan,3360
+2021-01-01,United Shipbuilding Corp.,Russia,4170
+2021-01-01,Tactical Missiles Corp.,Russia,4140
+2021-01-01,Sandia National Laboratories,United States,4380
+2021-01-01,Israel Aerospace Industries,Israel,3690
+2021-01-01,Science Applications International Corp.,United States,3990
+2021-01-01,KBR,United States,3970
+2021-01-01,Textron,United States,3770
+2021-01-01,Hindustan Aeronautics,India,3320
+2021-01-01,Hanwha Aerospace,South Korea,3090
+2021-01-01,Babcock International Group,United Kingdom,3250
+2021-01-01,KNDS,Trans-European,3090
+2021-01-01,Rafael,Israel,2870
+2021-01-01,CEA,France,2950
+2021-01-01,Fincantieri,Italy,3010
+2021-01-01,General Atomics,United States,2890
+2021-01-01,Oshkosh Corp.,United States,2840
+2021-01-01,Bechtel Corp.,United States,2780
+2021-01-01,TransDigm Group,United States,2700
+2021-01-01,ThyssenKrupp,Germany,2480
+2021-01-01,ASELSAN,Türkiye,2130
+2021-01-01,ST Engineering,Singapore,2420
+2021-01-01,ManTech International Corp.,United States,2340
+2021-01-01,Kawasaki Heavy Industries,Japan,1710
+2021-01-01,Jacobs Engineering Group,United States,2290
+2021-01-01,NCSIST,Taiwan,1860
+2021-01-01,Serco Group,United Kingdom,1960
+2021-01-01,Sierra Nevada Corp.,United States,2090
+2021-01-01,Bharat Electronics,India,1840
+2021-01-01,CNNC,China,1700
+2021-01-01,Korea Aerospace Industries,South Korea,1710
+2021-01-01,Parker-Hannifin Corp.,United States,2000
+2021-01-01,BWX Technologies,United States,1850
+2021-01-01,Teledyne Technologies,United States,1840
+2021-01-01,Vectrus,United States,1830
+2021-01-01,Hensoldt,Germany,1670
+2021-01-01,LIG Nex1,South Korea,1510
+2021-01-01,Atomic Weapons Establishment,United Kingdom,1620
+2021-01-01,QinetiQ,United Kingdom,1580
+2021-01-01,Aerojet Rocketdyne,United States,1650
+2021-01-01,Eaton,United States,1640
+2021-01-01,Fluor Corp.,United States,1610
+2021-01-01,Parsons Corp.,United States,1610
+2021-01-01,PGZ,Poland,1670
+2021-01-01,Fujitsu,Japan,1170
+2021-01-01,UkrOboronProm,Ukraine,1460
+2021-01-01,Curtiss-Wright Corp.,United States,1550
+2021-01-01,CAE,Canada,1320
+2021-01-01,Moog,United States,1410
+2021-01-01,Hanwha Corp.,South Korea,1180
+2021-01-01,Turkish Aerospace Industries,Türkiye,1190
+2021-01-01,Amphenol Corp.,United States,1350
+2021-01-01,Melrose Industries,United Kingdom,1250
+2021-01-01,Kongsberg Gruppen,Norway,1070
+2021-01-01,Keysight Technologies,United States,1280
+2021-01-01,Ball Corp.,United States,1230
+2021-01-01,Navantia,Spain,1110
+2021-01-01,Cobham,United Kingdom,1090
+2021-01-01,The Aerospace Corp.,United States,1160
+2021-01-01,Pacific Architects and Engineers,United States,1100
+2021-01-01,ViaSat,United States,1100
+2021-01-01,Mitre Corp.,United States,1090
+2021-01-01,Mercury Systems,United States,1080
+2021-01-01,Howmet Aerospace,United States,1070
+2021-01-01,Austal,Australia,940
+2022-01-01,Lockheed Martin Corp.,United States,61820
+2022-01-01,Raytheon Technologies,United States,41190
+2022-01-01,Northrop Grumman Corp.,United States,33620
+2022-01-01,Boeing,United States,30500
+2022-01-01,General Dynamics Corp.,United States,29270
+2022-01-01,BAE Systems,United Kingdom,29150
+2022-01-01,NORINCO,China,21130
+2022-01-01,AVIC,China,19750
+2022-01-01,Rostec,Russia,14550
+2022-01-01,CETC,China,14260
+2022-01-01,CASC,China,13370
+2022-01-01,Leonardo,Italy,13980
+2022-01-01,L3Harris Technologies,United States,13150
+2022-01-01,Airbus,Trans-European,13090
+2022-01-01,CASIC,China,11270
+2022-01-01,CSSC,China,10000
+2022-01-01,Thales,France,10110
+2022-01-01,HII,United States,9110
+2022-01-01,Leidos,United States,8580
+2022-01-01,Amentum,United States,6830
+2022-01-01,Booz Allen Hamilton,United States,6140
+2022-01-01,CSGC,China,5630
+2022-01-01,Rolls-Royce,United Kingdom,6140
+2022-01-01,AECC,China,4920
+2022-01-01,Dassault Aviation Group,France,5440
+2022-01-01,Elbit Systems,Israel,4710
+2022-01-01,CACI International,United States,5020
+2022-01-01,Honeywell International,United States,4820
+2022-01-01,Rheinmetall,Germany,4970
+2022-01-01,Naval Group,France,4860
+2022-01-01,General Electric,United States,4590
+2022-01-01,Peraton,United States,4590
+2022-01-01,MBDA,Trans-European,4740
+2022-01-01,United Shipbuilding Corp.,Russia,3700
+2022-01-01,KBR,United States,4440
+2022-01-01,Safran,France,4510
+2022-01-01,Israel Aerospace Industries,Israel,3890
+2022-01-01,Sandia National Laboratories,United States,4080
+2022-01-01,Science Applications International Corp.,United States,3930
+2022-01-01,Saab,Sweden,3760
+2022-01-01,Babcock International Group,United Kingdom,3990
+2022-01-01,Hanwha Group,South Korea,3740
+2022-01-01,Hindustan Aeronautics,India,3470
+2022-01-01,Rafael,Israel,3210
+2022-01-01,Mitsubishi Heavy Industries,Japan,3140
+2022-01-01,KNDS,Trans-European,3470
+2022-01-01,Textron,United States,3030
+2022-01-01,CEA,France,2990
+2022-01-01,Hanwha Aerospace,South Korea,2840
+2022-01-01,Fincantieri,Italy,3000
+2022-01-01,Bechtel Corp.,United States,2850
+2022-01-01,NCSIST,Taiwan,2530
+2022-01-01,V2X,United States,2620
+2022-01-01,TransDigm Group,United States,2430
+2022-01-01,Parker-Hannifin Corp.,United States,2360
+2022-01-01,ManTech International Corp.,United States,2280
+2022-01-01,ST Engineering,Singapore,2360
+2022-01-01,General Atomics,United States,2230
+2022-01-01,Oshkosh Corp.,United States,2230
+2022-01-01,Jacobs Engineering Group,United States,2180
+2022-01-01,Teledyne Technologies,United States,2100
+2022-01-01,ASELSAN,Türkiye,2170
+2022-01-01,CNNC,China,1860
+2022-01-01,ThyssenKrupp,Germany,2110
+2022-01-01,Bharat Electronics,India,1930
+2022-01-01,Serco Group,United Kingdom,2000
+2022-01-01,Kawasaki Heavy Industries,Japan,1770
+2022-01-01,Atomic Weapons Establishment,United Kingdom,1930
+2022-01-01,LIG Nex1,South Korea,1760
+2022-01-01,BWX Technologies,United States,1770
+2022-01-01,Hensoldt,Germany,1810
+2022-01-01,QinetiQ,United Kingdom,1760
+2022-01-01,PGZ,Poland,1890
+2022-01-01,Sierra Nevada Corp.,United States,1620
+2022-01-01,Korea Aerospace Industries,South Korea,1580
+2022-01-01,Parsons Corp.,United States,1600
+2022-01-01,Eaton,United States,1580
+2022-01-01,Aerojet Rocketdyne,United States,1560
+2022-01-01,Baykar,Türkiye,1520
+2022-01-01,CAE,Canada,1420
+2022-01-01,Curtiss-Wright Corp.,United States,1450
+2022-01-01,Moog,United States,1330
+2022-01-01,Fujitsu,Japan,1230
+2022-01-01,UkrOboronProm,Ukraine,1310
+2022-01-01,Kongsberg Gruppen,Norway,1180
+2022-01-01,Keysight Technologies,United States,1220
+2022-01-01,Amphenol Corp.,United States,1190
+2022-01-01,Turkish Aerospace Industries,Türkiye,1170
+2022-01-01,United Launch Alliance,United States,1110
+2022-01-01,Melrose Industries,United Kingdom,1150
+2022-01-01,The Aerospace Corp.,United States,1080
+2022-01-01,Fluor Corp.,United States,1070
+2022-01-01,Mitre Corp.,United States,1060
+2022-01-01,Navantia,Spain,1050
+2022-01-01,Austal,Australia,990
+2022-01-01,Mazagon Dock Shipbuilders,India,970
+2022-01-01,Mercury Systems,United States,1000
+2022-01-01,Diehl,Germany,1040
+2022-01-01,Ball Corp.,United States,970
+2022-01-01,Ultra Electronics Group,United Kingdom,1010
+2023-01-01,Lockheed Martin Corp.,United States,60810
+2023-01-01,RTX,United States,40660
+2023-01-01,Northrop Grumman Corp.,United States,35570
+2023-01-01,Boeing,United States,31100
+2023-01-01,General Dynamics Corp.,United States,30200
+2023-01-01,BAE Systems,United Kingdom,29810
+2023-01-01,Rostec,Russia,21730
+2023-01-01,AVIC,China,20850
+2023-01-01,NORINCO,China,20560
+2023-01-01,CETC,China,16050
+2023-01-01,L3Harris Technologies,United States,14760
+2023-01-01,Airbus,Trans-European,12890
+2023-01-01,Leonardo,Italy,12390
+2023-01-01,CASC,China,12350
+2023-01-01,CSSC,China,11480
+2023-01-01,Thales,France,10350
+2023-01-01,HII,United States,9280
+2023-01-01,CASIC,China,8850
+2023-01-01,Leidos,United States,8730
+2023-01-01,Booz Allen Hamilton,United States,6900
+2023-01-01,Amentum,United States,6450
+2023-01-01,Rolls-Royce,United Kingdom,6290
+2023-01-01,AECC,China,5780
+2023-01-01,Hanwha Group,South Korea,5710
+2023-01-01,CACI International,United States,5700
+2023-01-01,Rheinmetall,Germany,5480
+2023-01-01,Elbit Systems,Israel,5380
+2023-01-01,CSGC,China,5130
+2023-01-01,Honeywell International,United States,4990
+2023-01-01,MBDA,Trans-European,4760
+2023-01-01,General Electric,United States,4710
+2023-01-01,Naval Group,France,4550
+2023-01-01,Safran,France,4510
+2023-01-01,Israel Aerospace Industries,Israel,4490
+2023-01-01,Saab,Sweden,4360
+2023-01-01,KBR,United States,4230
+2023-01-01,Sandia National Laboratories,United States,4200
+2023-01-01,Babcock International Group,United Kingdom,4030
+2023-01-01,Mitsubishi Heavy Industries,Japan,3890
+2023-01-01,Science Applications International Corp.,United States,3870
+2023-01-01,United Shipbuilding Corp.,Russia,3770
+2023-01-01,Rafael,Israel,3730
+2023-01-01,Hindustan Aeronautics,India,3710
+2023-01-01,V2X,United States,3410
+2023-01-01,KNDS,Trans-European,3340
+2023-01-01,Dassault Aviation Group,France,3220
+2023-01-01,NCSIST,Taiwan,3220
+2023-01-01,Bechtel Corp.,United States,2970
+2023-01-01,Textron,United States,2940
+2023-01-01,CEA,France,2900
+2023-01-01,Fincantieri,Italy,2820
+2023-01-01,Parker-Hannifin Corp.,United States,2600
+2023-01-01,TransDigm Group,United States,2570
+2023-01-01,ASELSAN,Türkiye,2440
+2023-01-01,Jacobs Engineering Group,United States,2350
+2023-01-01,Korea Aerospace Industries,South Korea,2290
+2023-01-01,Serco Group,United Kingdom,2280
+2023-01-01,ST Engineering,Singapore,2230
+2023-01-01,Atomic Weapons Establishment,United Kingdom,2230
+2023-01-01,JSC Ukrainian Defense Industry,Ukraine,2210
+2023-01-01,General Atomics,United States,2120
+2023-01-01,Teledyne Technologies,United States,2110
+2023-01-01,Oshkosh Corp.,United States,2100
+2023-01-01,PGZ,Poland,2060
+2023-01-01,Kawasaki Heavy Industries,Japan,2060
+2023-01-01,ThyssenKrupp,Germany,1990
+2023-01-01,Bharat Electronics,India,1940
+2023-01-01,Sierra Nevada Corp.,United States,1930
+2023-01-01,Baykar,Türkiye,1900
+2023-01-01,BWX Technologies,United States,1890
+2023-01-01,Fujitsu,Japan,1850
+2023-01-01,QinetiQ,United Kingdom,1850
+2023-01-01,Hensoldt,Germany,1850
+2023-01-01,CNNC,China,1840
+2023-01-01,Parsons Corp.,United States,1840
+2023-01-01,LIG Nex1,South Korea,1770
+2023-01-01,Eaton,United States,1710
+2023-01-01,Turkish Aerospace Industries,Türkiye,1700
+2023-01-01,Curtiss-Wright Corp.,United States,1580
+2023-01-01,Kongsberg Gruppen,Norway,1500
+2023-01-01,Amphenol Corp.,United States,1380
+2023-01-01,CAE,Canada,1370
+2023-01-01,Diehl,Germany,1350
+2023-01-01,Keysight Technologies,United States,1250
+2023-01-01,Moog,United States,1240
+2023-01-01,ViaSat,United States,1230
+2023-01-01,Hyundai Rotem,South Korea,1210
+2023-01-01,Navantia,Spain,1190
+2023-01-01,Czechoslovak Group,Czechia,1190
+2023-01-01,Melrose Industries,United Kingdom,1190
+2023-01-01,NEC Corp.,Japan,1140
+2023-01-01,Fluor Corp.,United States,1110
+2023-01-01,Mitre Corp.,United States,1100
+2023-01-01,Mazagon Dock Shipbuilders,India,1090
+2023-01-01,The Aerospace Corp.,United States,1060
+2023-01-01,Mitsubishi Electric Corp.,Japan,1050
+2023-01-01,HEICO Corp.,United States,1040
+2023-01-01,United Launch Alliance,United States,1030
+2023-01-01,Howmet Aerospace,United States,1020
+2023-01-01,TTM Technologies,United States,1010

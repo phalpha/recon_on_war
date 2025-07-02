@@ -1,0 +1,243 @@
+date,Country,TIV
+2002-01-01,United States,4882
+2002-01-01,EU Countries,3569
+2002-01-01,Russia,5840
+2002-01-01,China,532
+2002-01-01,United Kingdom,1076
+2002-01-01,Israel,548
+2002-01-01,Ukraine,310
+2002-01-01,South Korea,
+2002-01-01,Canada,159
+2002-01-01,Turkiye,27
+2002-01-01,Other,611
+2003-01-01,United States,5643
+2003-01-01,EU Countries,4596
+2003-01-01,Russia,5196
+2003-01-01,China,708
+2003-01-01,United Kingdom,769
+2003-01-01,Israel,401
+2003-01-01,Ukraine,313
+2003-01-01,South Korea,96
+2003-01-01,Canada,306
+2003-01-01,Turkiye,43
+2003-01-01,Other,691
+2004-01-01,United States,6839
+2004-01-01,EU Countries,4271
+2004-01-01,Russia,6290
+2004-01-01,China,415
+2004-01-01,United Kingdom,1217
+2004-01-01,Israel,616
+2004-01-01,Ukraine,196
+2004-01-01,South Korea,74
+2004-01-01,Canada,307
+2004-01-01,Turkiye,28
+2004-01-01,Other,662
+2005-01-01,United States,6738
+2005-01-01,EU Countries,6237
+2005-01-01,Russia,5153
+2005-01-01,China,369
+2005-01-01,United Kingdom,991
+2005-01-01,Israel,510
+2005-01-01,Ukraine,294
+2005-01-01,South Korea,109
+2005-01-01,Canada,218
+2005-01-01,Turkiye,25
+2005-01-01,Other,450
+2006-01-01,United States,7533
+2006-01-01,EU Countries,7614
+2006-01-01,Russia,5135
+2006-01-01,China,738
+2006-01-01,United Kingdom,954
+2006-01-01,Israel,429
+2006-01-01,Ukraine,529
+2006-01-01,South Korea,158
+2006-01-01,Canada,216
+2006-01-01,Turkiye,67
+2006-01-01,Other,719
+2007-01-01,United States,7956
+2007-01-01,EU Countries,8810
+2007-01-01,Russia,5560
+2007-01-01,China,506
+2007-01-01,United Kingdom,920
+2007-01-01,Israel,609
+2007-01-01,Ukraine,639
+2007-01-01,South Korea,278
+2007-01-01,Canada,314
+2007-01-01,Turkiye,85
+2007-01-01,Other,502
+2008-01-01,United States,7150
+2008-01-01,EU Countries,6877
+2008-01-01,Russia,5993
+2008-01-01,China,614
+2008-01-01,United Kingdom,927
+2008-01-01,Israel,375
+2008-01-01,Ukraine,399
+2008-01-01,South Korea,110
+2008-01-01,Canada,219
+2008-01-01,Turkiye,120
+2008-01-01,Other,821
+2009-01-01,United States,7191
+2009-01-01,EU Countries,7031
+2009-01-01,Russia,5087
+2009-01-01,China,1136
+2009-01-01,United Kingdom,1073
+2009-01-01,Israel,801
+2009-01-01,Ukraine,443
+2009-01-01,South Korea,224
+2009-01-01,Canada,165
+2009-01-01,Turkiye,76
+2009-01-01,Other,845
+2010-01-01,United States,8389
+2010-01-01,EU Countries,5379
+2010-01-01,Russia,6240
+2010-01-01,China,1511
+2010-01-01,United Kingdom,1152
+2010-01-01,Israel,660
+2010-01-01,Ukraine,517
+2010-01-01,South Korea,177
+2010-01-01,Canada,159
+2010-01-01,Turkiye,70
+2010-01-01,Other,1262
+2011-01-01,United States,9024
+2011-01-01,EU Countries,6932
+2011-01-01,Russia,8798
+2011-01-01,China,1263
+2011-01-01,United Kingdom,1007
+2011-01-01,Israel,548
+2011-01-01,Ukraine,567
+2011-01-01,South Korea,328
+2011-01-01,Canada,261
+2011-01-01,Turkiye,90
+2011-01-01,Other,807
+2012-01-01,United States,8956
+2012-01-01,EU Countries,4735
+2012-01-01,Russia,8275
+2012-01-01,China,1521
+2012-01-01,United Kingdom,817
+2012-01-01,Israel,462
+2012-01-01,Ukraine,1491
+2012-01-01,South Korea,203
+2012-01-01,Canada,248
+2012-01-01,Turkiye,144
+2012-01-01,Other,660
+2013-01-01,United States,7694
+2013-01-01,EU Countries,5313
+2013-01-01,Russia,7780
+2013-01-01,China,2061
+2013-01-01,United Kingdom,1493
+2013-01-01,Israel,417
+2013-01-01,Ukraine,683
+2013-01-01,South Korea,350
+2013-01-01,Canada,160
+2013-01-01,Turkiye,139
+2013-01-01,Other,687
+2014-01-01,United States,9490
+2014-01-01,EU Countries,6491
+2014-01-01,Russia,5335
+2014-01-01,China,1327
+2014-01-01,United Kingdom,1658
+2014-01-01,Israel,400
+2014-01-01,Ukraine,630
+2014-01-01,South Korea,220
+2014-01-01,Canada,173
+2014-01-01,Turkiye,157
+2014-01-01,Other,669
+2015-01-01,United States,9868
+2015-01-01,EU Countries,6800
+2015-01-01,Russia,5788
+2015-01-01,China,1814
+2015-01-01,United Kingdom,1183
+2015-01-01,Israel,570
+2015-01-01,Ukraine,299
+2015-01-01,South Korea,94
+2015-01-01,Canada,321
+2015-01-01,Turkiye,225
+2015-01-01,Other,726
+2016-01-01,United States,9465
+2016-01-01,EU Countries,7121
+2016-01-01,Russia,6706
+2016-01-01,China,2445
+2016-01-01,United Kingdom,1324
+2016-01-01,Israel,1236
+2016-01-01,Ukraine,455
+2016-01-01,South Korea,437
+2016-01-01,Canada,91
+2016-01-01,Turkiye,244
+2016-01-01,Other,938
+2017-01-01,United States,11444
+2017-01-01,EU Countries,7164
+2017-01-01,Russia,6376
+2017-01-01,China,1625
+2017-01-01,United Kingdom,1107
+2017-01-01,Israel,1193
+2017-01-01,Ukraine,376
+2017-01-01,South Korea,702
+2017-01-01,Canada,61
+2017-01-01,Turkiye,179
+2017-01-01,Other,678
+2018-01-01,United States,9576
+2018-01-01,EU Countries,5117
+2018-01-01,Russia,6901
+2018-01-01,China,1358
+2018-01-01,United Kingdom,680
+2018-01-01,Israel,1147
+2018-01-01,Ukraine,313
+2018-01-01,South Korea,1049
+2018-01-01,Canada,115
+2018-01-01,Turkiye,249
+2018-01-01,Other,515
+2019-01-01,United States,10908
+2019-01-01,EU Countries,6092
+2019-01-01,Russia,5051
+2019-01-01,China,1593
+2019-01-01,United Kingdom,919
+2019-01-01,Israel,384
+2019-01-01,Ukraine,165
+2019-01-01,South Korea,682
+2019-01-01,Canada,221
+2019-01-01,Turkiye,276
+2019-01-01,Other,678
+2020-01-01,United States,9532
+2020-01-01,EU Countries,6278
+2020-01-01,Russia,3523
+2020-01-01,China,700
+2020-01-01,United Kingdom,637
+2020-01-01,Israel,395
+2020-01-01,Ukraine,116
+2020-01-01,South Korea,772
+2020-01-01,Canada,110
+2020-01-01,Turkiye,265
+2020-01-01,Other,1203
+2021-01-01,United States,11074
+2021-01-01,EU Countries,7881
+2021-01-01,Russia,2315
+2021-01-01,China,1310
+2021-01-01,United Kingdom,717
+2021-01-01,Israel,619
+2021-01-01,Ukraine,167
+2021-01-01,South Korea,510
+2021-01-01,Canada,118
+2021-01-01,Turkiye,487
+2021-01-01,Other,928
+2022-01-01,United States,15592
+2022-01-01,EU Countries,8857
+2022-01-01,Russia,2603
+2022-01-01,China,2083
+2022-01-01,United Kingdom,1665
+2022-01-01,Israel,870
+2022-01-01,Ukraine,72
+2022-01-01,South Korea,204
+2022-01-01,Canada,175
+2022-01-01,Turkiye,535
+2022-01-01,Other,608
+2023-01-01,United States,11287
+2023-01-01,EU Countries,9166
+2023-01-01,Russia,1269
+2023-01-01,China,2432
+2023-01-01,United Kingdom,1204
+2023-01-01,Israel,1159
+2023-01-01,Ukraine,34
+2023-01-01,South Korea,621
+2023-01-01,Canada,285
+2023-01-01,Turkiye,609
+2023-01-01,Other,722

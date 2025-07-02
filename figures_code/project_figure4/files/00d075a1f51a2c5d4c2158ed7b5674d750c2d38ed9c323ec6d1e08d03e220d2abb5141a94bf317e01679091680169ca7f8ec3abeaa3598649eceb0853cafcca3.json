@@ -1,0 +1,225 @@
+{
+ "name": "weapons",
+ "children": [
+  {
+   "name": "United States",
+   "children": [
+    {  "name": "Lockheed Martin Corp.", "value": 60810},
+    {  "name": "RTX", "value": 40660},
+    {  "name": "Northrop Grumman Corp.", "value": 35570},
+    {  "name": "Boeing", "value": 31100},
+    {  "name": "General Dynamics Corp.", "value": 30200},
+    {  "name": "L3Harris Technologies", "value": 14760},
+    {  "name": "HII", "value": 9280},
+    {  "name": "Leidos", "value": 8730},
+    {  "name": "Booz Allen Hamilton", "value": 6900},
+    {  "name": "Amentum", "value": 6450},
+    {  "name": "CACI International", "value": 5700},
+    {  "name": "Honeywell International", "value": 4990},
+    {  "name": "General Electric", "value": 4710},
+    {  "name": "KBR", "value": 4230},
+    {  "name": "Sandia National Laboratories", "value": 4200},
+    {  "name": "Science Applications International Corp.", "value": 40660},
+    {  "name": "V2X", "value": 40660},
+    {  "name": "Bechtel Corp.", "value": 40660},
+    {  "name": "Textron", "value": 40660},
+    {  "name": "Parker-Hannifin Corp.", "value": 40660},
+    {  "name": "TransDigm Group", "value": 40660},
+    {  "name": "Jacobs Engineering Group", "value": 40660},
+    {  "name": "General Atomics", "value": 40660},
+    {  "name": "Teledyne Technologies", "value": 40660},
+    {  "name": "Oshkosh Corp.", "value": 40660},
+    {  "name": "Sierra Nevada Corp.", "value": 40660},
+    {  "name": "BWX Technologies", "value": 40660},
+    {  "name": "Parsons Corp.", "value": 40660},
+    {  "name": "Eaton", "value": 40660},
+    {  "name": "Curtiss-Wright Corp.", "value": 40660},
+    {  "name": "Amphenol Corp.", "value": 40660},
+    {  "name": "Keysight Technologies", "value": 40660},
+    {  "name": "Moog", "value": 40660},
+    {  "name": "ViaSat", "value": 40660},
+    {  "name": "Fluor Corp.", "value": 40660},
+    {  "name": "Mitre Corp.", "value": 40660},
+    {  "name": "The Aerospace Corp.", "value": 40660},
+    {  "name": "HEICO Corp.", "value": 40660},
+    {  "name": "United Launch Alliance", "value": 40660},
+    {  "name": "Howmet Aerospace", "value": 40660},
+    {  "name": "TTM Technologies", "value": 40660}
+  ]
+ },
+   {
+   "name": "China",
+   "children": [
+    {  "name": "CAE", "value": 1370},
+        {  "name": "AVIC", "value": 20850},
+    {  "name": "NORINCO", "value": 20560},
+    {  "name": "CETC", "value": 16050},
+    {  "name": "CASC", "value": 12350},
+    {  "name": "CSSC", "value": 11480},
+    {  "name": "CASIC", "value": 8850},
+    {  "name": "AECC", "value": 5780},
+    {  "name": "CSGC", "value": 5130},
+        {  "name": "CNNC", "value": 1840}
+  ]
+ },
+ {
+   "name": "Turkey",
+   "children": [
+    {  "name": "ASELSAN", "value": 2440},
+        {  "name": "Baykar", "value": 1900},
+    {  "name": "Turkish Aerospace Industries", "value": 1700}
+  ]
+ },
+{
+   "name": "Ukraine",
+   "children": [
+    {  "name": "JSC Ukrainian Defense Industry", "value": 2210}
+  ]
+ },
+ {
+   "name": "Canada",
+   "children": [
+    {  "name": "CAE", "value": 1370}
+  ]
+ },
+ {
+   "name": "Israel",
+   "children": [
+    {  "name": "Israel Aerospace Industries", "value": 4490},
+     {  "name": "Rafael", "value": 3730}
+  ]
+ },
+  {
+   "name": "India",
+   "children": [
+    {  "name": "Hindustan Aeronautics", "value": 3710},
+     {  "name": "Bharat Electronics", "value": 1940},
+      {  "name": "Mazagon Dock Shipbuilders", "value": 1090}
+  ]
+ },
+  {
+   "name": "Russia",
+   "children": [
+    {  "name": "Rostec", "value": 21730},
+    {  "name": "United Shipbuilding Corp.", "value": 3770}
+  ]
+ },
+  {
+   "name": "Singapore",
+   "children": [
+    {  "name": "ST Engineering", "value": 2230}
+  ]
+ },
+ {
+   "name": "Japan",
+   "children": [
+    {  "name": "Mitsubishi Heavy Industries", "value": 3890},
+     {  "name": "Kawasaki Heavy Industries", "value": 2060},
+      {  "name": "Fujitsu", "value": 1850},
+       {  "name": "NEC Corp.", "value": 1140},
+      {  "name": "Mitsubishi Electric Corp.", "value": 1050}
+  ]
+ },
+
+ {
+   "name": "Taiwan",
+   "children": [
+    {  "name": "NCSIST", "value": 3220}
+  ]
+ },
+  {
+   "name": "South Korea",
+   "children": [
+    {  "name": "Hanwha Group", "value": 3710},
+     {  "name": "Korea Aerospace Industries", "value": 1940},
+      {  "name": "LIG Nex1", "value": 1090},
+      {  "name": "Hyundai Rotem", "value": 1210}
+  ]
+ },
+  {
+    "name": "European Union",
+    "children": [
+      {
+         "name": "United Kingdom",
+         "children": [
+          {  "name": "BAE Systems", "value": 29810},
+              {  "name": "Rolls-Royce", "value": 6290},
+          {  "name": "Babcock International Group", "value": 4030},
+          {  "name": "Serco Group", "value": 2280},
+          {  "name": "Atomic Weapons Establishment", "value": 2230},
+          {  "name": "QinetiQ", "value": 1850},
+          {  "name": "Melrose Industries", "value": 1190}
+        ]
+       },
+
+         {
+         "name": "France",
+         "children": [
+          {  "name": "Thales", "value": 10350},
+              {  "name": "Naval Group", "value": 4550},
+          {  "name": "Safran", "value": 4510},
+          {  "name": "Dassault Aviation Group", "value": 3220},
+          {  "name": "CEA", "value": 2900}
+        ]
+       },
+           
+       {
+         "name": "Germany",
+         "children": [
+          {  "name": "Rheinmetall", "value": 5480},
+              {  "name": "ThyssenKrupp", "value": 1990},
+          {  "name": "Hensoldt", "value": 1990},
+          {  "name": "Diehl", "value": 1350}
+        ]
+       },
+
+        {
+         "name": "Italy",
+         "children": [
+          {  "name": "Leonardo", "value": 12390},
+              {  "name": "Fincantieri", "value": 2820}
+        ]
+       },
+        {
+         "name": "Poland",
+         "children": [
+          {  "name": "PGZ", "value": 2060}
+        ]
+       },
+       {
+         "name": "Sweden",
+         "children": [
+          {  "name": "Saab", "value": 4360}
+        ]
+       },
+       {
+         "name": "Norway",
+         "children": [
+          {  "name": "Kongsberg Gruppen", "value": 1500}
+        ]
+       }, 
+       {
+         "name": "Czechia",
+         "children": [
+          {  "name": "Czechoslovak Group", "value": 1190}
+        ]
+       },
+       {
+         "name": "Spain",
+         "children": [
+          {  "name": "Navantia", "value": 1190}
+        ]
+       },
+       {
+         "name": "Trans-European",
+         "children": [
+          {  "name": "Airbus", "value": 12890},
+              {  "name": "MBDA", "value": 4760},
+          {  "name": "KNDS", "value": 3340}
+        ]
+       }
+    ] 
+  }   
+       
+ ]
+}
